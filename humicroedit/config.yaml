@@ -1,0 +1,94 @@
+credentials:
+  usernames:
+    annotator11:
+      name: Annotator11
+      password: $2b$12$ShYUTrAAD03CJX8TQhYVM.W/2MJEOPw2xNWLN4Jstk3Bg.fm.MOyq
+    annotator13:
+      name: Annotator13
+      password: $2b$12$OLEeMiFPQvEt9jLXgGAWLulKOzM.tLLLCRrpn9nCWAdAazXZD/g.G
+    annotator15:
+      name: Annotator15
+      password: $2b$12$qszPISZ/3sCbDei7AfRcYOOq9HOcDGf4kkYqU/ykx01NE4GYCiXeC
+    annotator5:
+      name: Annotator5
+      password: $2b$12$wgIql6vrwSScC0..mwYns.DutRPnc27J4qGfNOCj6akWAFWBUTcOC
+    annotator14:
+      name: Annotator14
+      password: $2b$12$lZBcrw3NN7Q5tkduSBRfmO.kXGu9Qur88uhbfuuB3PWpzVuRh22Me
+    annotator16:
+      name: Annotator16
+      password: $2b$12$QpgaPQCSDVk0eRKu9F6XpOv5uvGe7OMNMUHUsOlXf2Uqc3FXRFNui
+    annotator17:
+      name: Annotator17
+      password: $2b$12$KKiKPB7yOzPhlcWZEO3AH.DUD.nDB/Li5rdNFX1cvDtSqiMx/VWKe
+    annotator7:
+      name: Annotator7
+      password: $2b$12$bQPyZl/Ry1z5JYn/1n.0RuxvsD1yxAEe05FBbjbAybbb5NSDLY3fG
+    annotator1:
+      name: Annotator1
+      password: $2b$12$9OBGDfzKW6PZ1LCZumrBp.7UY5lTDw3d.rRoLJcYx3qXcnLEzOah6
+    annotator18:
+      name: Annotator18
+      password: $2b$12$m80uq7tuWL8EoJq6bQzw8OZakSao7Kp05VhbN9N1Wy70sqbdFoWeO
+    annotator8:
+      name: Annotator8
+      password: $2b$12$Fp8dl/vB1X9FbwEkXl8nY.OHvpZ.2stL9MsQLkHYeshWfQ9tRNQd2
+    annotator2:
+      name: Annotator2
+      password: $2b$12$taYCMxCcSx3pGROB05FTEeXZ1QBSnqDh5ajENrhICrl1M0lHaP29e
+    annotator12:
+      name: Annotator12
+      password: $2b$12$BDDFo/BTk/tKM/SVtW7CF.YIVU.DdBL4WIhL/.GtcHCk3Zxi0X12O
+    annotator9:
+      name: Annotator9
+      password: $2b$12$qG1rF4VtT6IMzRio0jd6ueARtpgVTXeL0ekjEwv1ABMehd049qPxO
+    annotator4:
+      name: Annotator4
+      password: $2b$12$yjpBAV1dnsm2kJ0vN64dcOBuM9INLcyWuiYEFYtD8SKRbFGHHqoPe
+    annotator3:
+      name: Annotator3
+      password: $2b$12$UNDFWyUAlT5R3dE5xZFAwueCIiGETG0ojqbNlHKen8CFQselENAfy
+    annotator10:
+      name: Annotator10
+      password: $2b$12$2sqnn8IXB74XHBWrvOXdn.gc0CDN/DpjFrJ9jmKSfpR0rZs.DqIem
+    annotator6:
+      name: Annotator6
+      password: $2b$12$Xbou7rtERnXvzV6GOfWM3..yvtozFHziKqzZa1yGuwg2kqcttK4li
+cookie:
+  expiry_days: 30
+  key: humicroedit
+  name: humicroedit_authentication
+preauthorized:
+  emails:
+countries:
+  brazil:
+    - annotator11
+    - annotator13
+    - annotator15
+    - annotator5
+    - annotator14
+    - annotator16
+    - annotator17
+    - annotator7
+    - annotator1
+    - annotator18
+  portugal:
+    - annotator8
+    - annotator2
+    - annotator12
+    - annotator9
+    - annotator4
+    - annotator3
+    - annotator10
+    - annotator6
+sources:
+  brazil:
+    - 1
+    - 2
+    - 3
+    - 5
+  portugal:
+    - 4
+admins:
+  - annotator11
+  - annotator8

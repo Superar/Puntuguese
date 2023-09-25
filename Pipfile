@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+setuptools = "*"
+wheel = "*"
+spacy = {extras = ["cuda-autodetect"], version = "*"}
+streamlit-authenticator = "*"
+htbuilder = "*"
+st-click-detector = "*"
+nltk = "*"
+scikit-learn = "*"
+tables = "*"
+openpyxl = "*"
+odfpy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
