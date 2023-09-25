@@ -1,0 +1,2 @@
+pipenv run python experiments\classification\1-convert_to_HumorRecognitionPT.py -c data\classification_corpus.json
+pipenv run python experiments\classification\2-preprocessing.py -c data\classification_corpus_HumorRecognitionPT.json -o data\classification_corpus_preprocessed.json
