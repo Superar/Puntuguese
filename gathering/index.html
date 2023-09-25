@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Pun Corpus</title>
+        <!-- Bulma Version 0.9.0-->
+        <link rel='stylesheet prefetch' href='https://unpkg.com/bulma@0.9.0/css/bulma.min.css'>
+        <link rel="stylesheet" href="css/tabs.css">
+        <script src="https://kit.fontawesome.com/7dc3015a44.js" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        <section class="hero is-info mb-5">
+            <div class="hero-body">
+                <div class="container">
+                    <h1 class="title">
+                        Córpus de Trocadilhos
+                    </h1>
+                </div>
+            </div>
+        </section>
+
+        <div class="columns">
+            <div class="column is-half is-offset-one-quarter">
+
+                <!-- UPLOAD FILE -->
+                <div class="box">
+                    <div class="file">
+                        <label class="file-label">
+                            <input class="file-input" type="file" name="input_corpus" id="input_corpus">
+                            <span class="file-cta">
+                                <span class="file-icon">
+                                    <i class="fas fa-upload"></i>
+                                </span>
+                                <span class="file-label"> Escolha um arquivo... </span>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- FORM -->
+                <div class="box">
+                    <!-- SOURCE ID -->
+                    <div class="field">
+                        <label class="label" for="source_id">ID da fonte</label>
+                        <div class="control">
+                            <input id="source_id" class="input" type="text" placeholder="ID da fonte">
+                        </div>
+                    </div>
+
+                    <!-- PUN TEXT -->
+                    <div class="field">
+                        <label class="label" for="pun_text">Texto do trocadilho</label>
+                        <div class="control">
+                            <input id="pun_text" class="input" type="text" placeholder="Texto">
+                        </div>
+                    </div>
+
+                    <!-- SIGNS -->
+                    <div id="sign_repeater">
+                        <div class="sign_field">
+                            <label class="label">[0] Características</label>
+                            <div class="field is-grouped">
+                                <div class="control">
+                                    <label class="checkbox">
+                                        <input class="homograph" type="checkbox">
+                                        Homógrafo
+                                    </label>
+                                </div>
+                                <div class="control">
+                                    <label class="checkbox">
+                                        <input class="homophone" type="checkbox">
+                                        Homófono
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="field">
+                                <label class="label">[0] Signo de trocadilho</label>
+                                <div class="control">
+                                    <input class="input pun_sign" type="text" placeholder="Palavra de trocadilho">
+                                </div>
+                            </div>
+                            <div class="field">
+                                <label class="label">[0] Signos alternativos (um por linha)</label>
+                                <div class="control">
+                                    <textarea class="textarea" placeholder="Sentidos alternativos"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="field control">
+                        <button class="button is-primary is-light is-fullwidth" id="add_sign_button">Adicionar signo</button>
+                    </div>
+                    <div class="field control">
+                        <button class="button is-danger is-light is-fullwidth" id="remove_sign_button">Remover signo</button>
+                    </div>
+
+                    <!-- BUTTONS -->
+                    <div class="field is-grouped">
+                        <div class="control">
+                            <button class="button is-link" id="submit_button">Cadastrar</button>
+                        </div>
+                        <div class="control">
+                            <button class="button is-link is-light" id="reset_button">Cancelar</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- DATA VISUALIZATION -->
+                <div class="box" id="pun_repeater">
+                    <div class="block">
+                        <h2 class="title is-4">Trocadilhos cadastrados</h2>
+                    </div>
+                    <nav class="pagination" role="navigation" aria-label="pagination">
+                        <a class="pagination-previous" id="previous">Anterior</a>
+                        <a class="pagination-next" id="next">Próximo</a>
+                        <ul class="pagination-list" id="pun_pagination">
+                            <li class="pagination-link is-current">1</li>
+                        </ul>
+                    </nav>
+                </div>
+
+                <!-- JSON -->
+                <div class="message is-primary">
+                    <div class="message-header">
+                        <p>JSON</p>
+                        <div class="buttons">
+                            <a class="button" id="download_button">
+                                <span class="icon">
+                                    <i class="fas fa-download"></i>
+                                </span>
+                            </a>
+                            <button class="button" id="copy_button">
+                                <span class="icon">
+                                    <i class="fas fa-copy"></i>
+                                </span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="message-body">
+                        <code>
+                            <pre> </pre>
+                        </code>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="js/form.js"></script>
+    </body>
+</html>
