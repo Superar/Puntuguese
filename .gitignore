@@ -1,0 +1,15 @@
+data/features/
+data/features_by_dialect/
+data/cross_validation/
+data/cv_by_dialect/
+data/classification_corpus.json
+data/classification_corpus_preprocessed.json
+data/classification_corpus_HumorRecognitionPT.json
+
+results/models/
+results/models_by_dialect/
+results/models.zip
+results/models_by_dialect.zip
+
+results/predictions/
+results/predictions_by_dialect/
