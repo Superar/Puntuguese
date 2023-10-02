@@ -1,3 +1,4 @@
+# pipenv run python utils/create_csv_table.py -c data/puns.json
 from argparse import ArgumentParser
 from pathlib import Path
 import pandas as pd
