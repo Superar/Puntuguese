@@ -6,6 +6,7 @@ data/classification_corpus.json
 data/classification_corpus_preprocessed.json
 data/classification_corpus_HumorRecognitionPT.json
 data/preprocessed_puns.json
+data/puns.csv
 
 results/models/
 results/models_by_dialect/
