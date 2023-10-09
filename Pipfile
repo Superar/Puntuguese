@@ -3,6 +3,21 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[[source]]
+url = "https://download.pytorch.org/whl/cu121"
+verify_ssl = true
+name = "downloadpytorch"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu121"
+verify_ssl = true
+name = "downloadpytorch"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu121"
+verify_ssl = true
+name = "downloadpytorch"
+
 [packages]
 streamlit = "*"
 setuptools = "*"
@@ -18,9 +33,9 @@ openpyxl = "*"
 odfpy = "*"
 matplotlib = "*"
 transformers = "*"
-torch = "*"
-torchvision = "*"
-torchaudio = "*"
+torch = {version = "*", index = "downloadpytorch"}
+torchvision = {version = "*", index = "downloadpytorch"}
+torchaudio = {version = "*", index = "downloadpytorch"}
 
 [dev-packages]
 autopep8 = "*"
