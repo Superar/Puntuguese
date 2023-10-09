@@ -80,7 +80,7 @@ embedded_original_texts = word_mean_pooling(edited_df['tokens'],
 embedded_original_tokens = list()
 for i in range(len(edited_df)):
     edition = edited_df.iloc[i]['edition']
-    embedded_original_tokens.append(embedded_original_texts[i][edition])
+    embedded_original_tokens.append(embedded_original_texts[i][edition].cpu())
 
 # Original tokens -- Clustering
 print('Doing original tokens clustering')
@@ -96,13 +96,17 @@ del embedded_original_tokens
 # Edited tokens -- Get word embeddings
 print('Getting edited tokens embeddings')
 embedded_edited_texts = word_mean_pooling(edited_df['edited tokens'],
-                                            tokenizer,
-                                            model)
+                                          tokenizer,
+                                          model)
 # Edited tokens -- Get only edited tokens
 embedded_edited_tokens = list()
 for i in range(len(edited_df)):
     edition = edited_df.iloc[i]['edition']
-    embedded_edited_tokens.append(embedded_edited_texts[i][edition])
+    shift = len([t for t in edited_df.iloc[i]['edited tokens'][0:edition]
+                 if t in ['', ' ']])
+    edition -= shift  # Account for removed previous tokens
+
+    embedded_edited_tokens.append(embedded_edited_texts[i][edition].cpu())
 
 # Edited tokens -- Clustering
 print('Doing edited tokens clustering')
