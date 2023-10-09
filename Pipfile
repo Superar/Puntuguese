@@ -16,6 +16,10 @@ scikit-learn = "*"
 tables = "*"
 openpyxl = "*"
 odfpy = "*"
+transformers = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 autopep8 = "*"
