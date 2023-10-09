@@ -12,6 +12,7 @@ results/models/
 results/models_by_dialect/
 results/models.zip
 results/models_by_dialect.zip
+results/editing_statistics.csv
 
 results/predictions/
 results/predictions_by_dialect/

@@ -16,6 +16,7 @@ scikit-learn = "*"
 tables = "*"
 openpyxl = "*"
 odfpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 autopep8 = "*"
