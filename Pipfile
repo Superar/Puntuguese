@@ -17,6 +17,10 @@ tables = "*"
 openpyxl = "*"
 odfpy = "*"
 matplotlib = "*"
+transformers = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 autopep8 = "*"
