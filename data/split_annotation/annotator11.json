@@ -9370,7 +9370,15 @@
     {
         "id": "5.3283",
         "text": "Qual cantor chama os outros? PSeal",
-        "tokens": ["Qual", "cantor", "chama", "os", "outros", "?", "PSeal"],
+        "tokens": [
+            "Qual",
+            "cantor",
+            "chama",
+            "os",
+            "outros",
+            "?",
+            "PSeal"
+        ],
         "edited tokens": [
             "Qual",
             "cantor",
@@ -18112,7 +18120,14 @@
     {
         "id": "5.1088",
         "text": "Qual cidade vive resfriada? Atchimbaia",
-        "tokens": ["Qual", "cidade", "vive", "resfriada", "?", "Atchimbaia"],
+        "tokens": [
+            "Qual",
+            "cidade",
+            "vive",
+            "resfriada",
+            "?",
+            "Atchimbaia"
+        ],
         "edited tokens": [
             "Qual",
             "cidade",
@@ -19031,7 +19046,15 @@
     {
         "id": "5.1934",
         "text": "Qual cantor adora poker? Bob Dealer..",
-        "tokens": ["Qual", "cantor", "adora", "poker", "?", "Bob Dealer", ".."],
+        "tokens": [
+            "Qual",
+            "cantor",
+            "adora",
+            "poker",
+            "?",
+            "Bob Dealer",
+            ".."
+        ],
         "edited tokens": [
             "Qual",
             "cantor",
@@ -21091,8 +21114,24 @@
     {
         "id": "5.2024",
         "text": "Qual é o celular nudista? Semsunga ",
-        "tokens": ["Qual", "é", "o", "celular", "nudista", "?", "Semsunga"],
-        "edited tokens": ["Qual", "é", "o", "celular", "nudista", "?", "iPhone"]
+        "tokens": [
+            "Qual",
+            "é",
+            "o",
+            "celular",
+            "nudista",
+            "?",
+            "Semsunga"
+        ],
+        "edited tokens": [
+            "Qual",
+            "é",
+            "o",
+            "celular",
+            "nudista",
+            "?",
+            "iPhone"
+        ]
     },
     {
         "id": "5.2006",
@@ -21471,8 +21510,22 @@
     {
         "id": "5.2055",
         "text": "Que Inseto corre muito? A Baratona ",
-        "tokens": ["Que", "Inseto", "corre", "muito", "?", "A Baratona"],
-        "edited tokens": ["Que", "Inseto", "corre", "muito", "?", "A formiga"]
+        "tokens": [
+            "Que",
+            "Inseto",
+            "corre",
+            "muito",
+            "?",
+            "A Baratona"
+        ],
+        "edited tokens": [
+            "Que",
+            "Inseto",
+            "corre",
+            "muito",
+            "?",
+            "A formiga"
+        ]
     },
     {
         "id": "5.2110",
@@ -23331,7 +23384,15 @@
     {
         "id": "5.2837",
         "text": "O que sentimos pelas grávidas? A-feto ",
-        "tokens": ["O", "que", "sentimos", "pelas", "grávidas", "?", "A-feto"],
+        "tokens": [
+            "O",
+            "que",
+            "sentimos",
+            "pelas",
+            "grávidas",
+            "?",
+            "A-feto"
+        ],
         "edited tokens": [
             "O",
             "que",
@@ -24419,7 +24480,15 @@
     {
         "id": "5.2926",
         "text": "Qual fruta prevê o futuro ? Li mão",
-        "tokens": ["Qual", "fruta", "prevê", "o", "futuro", "?", "Li mão"],
+        "tokens": [
+            "Qual",
+            "fruta",
+            "prevê",
+            "o",
+            "futuro",
+            "?",
+            "Li mão"
+        ],
         "edited tokens": [
             "Qual",
             "fruta",
@@ -25371,8 +25440,24 @@
     {
         "id": "5.3493",
         "text": "Qual banda come muito? Prato Full.",
-        "tokens": ["Qual", "banda", "come", "muito", "?", "Prato Full", "."],
-        "edited tokens": ["Qual", "banda", "come", "muito", "?", "NX Zero", "."]
+        "tokens": [
+            "Qual",
+            "banda",
+            "come",
+            "muito",
+            "?",
+            "Prato Full",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "banda",
+            "come",
+            "muito",
+            "?",
+            "NX Zero",
+            "."
+        ]
     },
     {
         "id": "5.3245",
@@ -25775,8 +25860,22 @@
     {
         "id": "5.2879",
         "text": "Cantor favorito dos felinos? Ivan Lince ",
-        "tokens": ["Cantor", "favorito", "dos", "felinos", "?", "Ivan Lince"],
-        "edited tokens": ["Cantor", "favorito", "dos", "felinos", "?", "Xuxa"]
+        "tokens": [
+            "Cantor",
+            "favorito",
+            "dos",
+            "felinos",
+            "?",
+            "Ivan Lince"
+        ],
+        "edited tokens": [
+            "Cantor",
+            "favorito",
+            "dos",
+            "felinos",
+            "?",
+            "Xuxa"
+        ]
     },
     {
         "id": "5.2846",
@@ -26441,7 +26540,15 @@
     {
         "id": "5.4092",
         "text": "Qual fruta reclama muito? Melanchia.",
-        "tokens": ["Qual", "fruta", "reclama", "muito", "?", "Melanchia", "."],
+        "tokens": [
+            "Qual",
+            "fruta",
+            "reclama",
+            "muito",
+            "?",
+            "Melanchia",
+            "."
+        ],
         "edited tokens": [
             "Qual",
             "fruta",
@@ -26699,7 +26806,15 @@
     {
         "id": "5.3720",
         "text": "Qual político é mal arejado? Brizolla",
-        "tokens": ["Qual", "político", "é", "mal", "arejado", "?", "Brizolla"],
+        "tokens": [
+            "Qual",
+            "político",
+            "é",
+            "mal",
+            "arejado",
+            "?",
+            "Brizolla"
+        ],
         "edited tokens": [
             "Qual",
             "político",
@@ -30667,7 +30782,14 @@
     {
         "id": "5.3956",
         "text": "Qual sambista voava? Drone Ivone Lara.",
-        "tokens": ["Qual", "sambista", "voava", "?", "Drone Ivone Lara", "."],
+        "tokens": [
+            "Qual",
+            "sambista",
+            "voava",
+            "?",
+            "Drone Ivone Lara",
+            "."
+        ],
         "edited tokens": [
             "Qual",
             "sambista",
@@ -30798,7 +30920,16 @@
     {
         "id": "5.3768",
         "text": "Onde o Jabba come? No pizza hutt ",
-        "tokens": ["Onde", "o", "Jabba", "come", "?", "No", "pizza", "hutt"],
+        "tokens": [
+            "Onde",
+            "o",
+            "Jabba",
+            "come",
+            "?",
+            "No",
+            "pizza",
+            "hutt"
+        ],
         "edited tokens": [
             "Onde",
             "o",
@@ -32099,6 +32230,1597 @@
             "filha precisar usar",
             "."
         ]
+    },
+    {
+        "id": "5.3620",
+        "text": "Qual ator não conseguiu chegar na gravação hoje? Marcelo Adelay.",
+        "tokens": [
+            "Qual",
+            "ator",
+            "não",
+            "conseguiu",
+            "chegar",
+            "na",
+            "gravação",
+            "hoje",
+            "?",
+            "Marcelo Adelay",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "ator",
+            "não",
+            "conseguiu",
+            "chegar",
+            "na",
+            "gravação",
+            "hoje",
+            "?",
+            "Marcelo Adnet",
+            "."
+        ]
+    },
+    {
+        "id": "5.3621",
+        "text": "Qual é a cantora que faz mais sucesso no Natal? Angela Ho Ho Ho.",
+        "tokens": [
+            "Qual",
+            "é",
+            "a",
+            "cantora",
+            "que",
+            "faz",
+            "mais",
+            "sucesso",
+            "no",
+            "Natal",
+            "?",
+            "Angela Ho Ho Ho",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "é",
+            "a",
+            "cantora",
+            "que",
+            "faz",
+            "mais",
+            "sucesso",
+            "no",
+            "Natal",
+            "?",
+            "Simone",
+            "."
+        ]
+    },
+    {
+        "id": "5.3629",
+        "text": "Por que o matemático oriental estava com os dedos todos enrugados? Porque estava na 3,14 China.",
+        "tokens": [
+            "Por",
+            "que",
+            "o",
+            "matemático",
+            "oriental",
+            "estava",
+            "com",
+            "os",
+            "dedos",
+            "todos",
+            "enrugados",
+            "?",
+            "Porque",
+            "estava",
+            "na",
+            "3,14 China",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "o",
+            "matemático",
+            "oriental",
+            "estava",
+            "com",
+            "os",
+            "dedos",
+            "todos",
+            "enrugados",
+            "?",
+            "Porque",
+            "estava",
+            "na",
+            "piscina",
+            "."
+        ]
+    },
+    {
+        "id": "5.3636",
+        "text": "Qual comediante só come carne moída? Rogério Mói Gado.",
+        "tokens": [
+            "Qual",
+            "comediante",
+            "só",
+            "come",
+            "carne",
+            "moída",
+            "?",
+            "Rogério Mói Gado",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "comediante",
+            "só",
+            "come",
+            "carne",
+            "moída",
+            "?",
+            "Rogério Morgado",
+            "."
+        ]
+    },
+    {
+        "id": "5.3637",
+        "text": "Qual é o refrigerante preferido nos filmes pornôs? Guaranal.",
+        "tokens": [
+            "Qual",
+            "é",
+            "o",
+            "refrigerante",
+            "preferido",
+            "nos",
+            "filmes",
+            "pornôs",
+            "?",
+            "Guaranal",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "é",
+            "o",
+            "refrigerante",
+            "preferido",
+            "nos",
+            "filmes",
+            "pornôs",
+            "?",
+            "Coca-cola",
+            "."
+        ]
+    },
+    {
+        "id": "5.3639",
+        "text": "Qual poção você toma e desapega, desapega? O elixir.",
+        "tokens": [
+            "Qual",
+            "poção",
+            "você",
+            "toma",
+            "e",
+            "desapega",
+            ",",
+            "desapega",
+            "?",
+            "O",
+            "elixir",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "poção",
+            "você",
+            "toma",
+            "e",
+            "desapega",
+            ",",
+            "desapega",
+            "?",
+            "O",
+            "de invisibilidade",
+            "."
+        ]
+    },
+    {
+        "id": "5.3663",
+        "text": "Qual atacante visitou o Olimpo? Felipe Vi Zeus.",
+        "tokens": [
+            "Qual",
+            "atacante",
+            "visitou",
+            "o",
+            "Olimpo",
+            "?",
+            "Felipe Vi Zeus",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "atacante",
+            "visitou",
+            "o",
+            "Olimpo",
+            "?",
+            "Pelé",
+            "."
+        ]
+    },
+    {
+        "id": "5.3681",
+        "text": "Qual piloto nunca ganharia esse desafio de trocadilhos? Damon Hill.",
+        "tokens": [
+            "Qual",
+            "piloto",
+            "nunca",
+            "ganharia",
+            "esse",
+            "desafio",
+            "de",
+            "trocadilhos",
+            "?",
+            "Damon Hill",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "piloto",
+            "nunca",
+            "ganharia",
+            "esse",
+            "desafio",
+            "de",
+            "trocadilhos",
+            "?",
+            "Louis Hamilton",
+            "."
+        ]
+    },
+    {
+        "id": "5.3691",
+        "text": "O que o Jaspion foi fazer em Buenos Aires? Foi dan sa-tangoss.",
+        "tokens": [
+            "O",
+            "que",
+            "o",
+            "Jaspion",
+            "foi",
+            "fazer",
+            "em",
+            "Buenos Aires",
+            "?",
+            "Foi",
+            "dan sa-tangoss",
+            "."
+        ],
+        "edited tokens": [
+            "O",
+            "que",
+            "o",
+            "Jaspion",
+            "foi",
+            "fazer",
+            "em",
+            "Buenos Aires",
+            "?",
+            "Foi",
+            "visitar",
+            "."
+        ]
+    },
+    {
+        "id": "5.3701",
+        "text": "Qual a especialidade do médico judeu empreendedor? Oftamo o lojinha.",
+        "tokens": [
+            "Qual",
+            "a",
+            "especialidade",
+            "do",
+            "médico",
+            "judeu",
+            "empreendedor",
+            "?",
+            "Oftamo",
+            "o",
+            "lojinha",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "a",
+            "especialidade",
+            "do",
+            "médico",
+            "judeu",
+            "empreendedor",
+            "?",
+            "Oftalmo",
+            "",
+            "",
+            "."
+        ]
+    },
+    {
+        "id": "5.3707",
+        "text": "Qual é o cineasta favorito do Tocantins? Brian de Palmas.",
+        "tokens": [
+            "Qual",
+            "é",
+            "o",
+            "cineasta",
+            "favorito",
+            "do",
+            "Tocantins",
+            "?",
+            "Brian de Palmas",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "é",
+            "o",
+            "cineasta",
+            "favorito",
+            "do",
+            "Tocantins",
+            "?",
+            "Douglas Machado",
+            "."
+        ]
+    },
+    {
+        "id": "5.3709",
+        "text": "Qual é o personagem do Chaves que representa a bondade encarnada? Goodinez.",
+        "tokens": [
+            "Qual",
+            "é",
+            "o",
+            "personagem",
+            "do",
+            "Chaves",
+            "que",
+            "representa",
+            "a",
+            "bondade",
+            "encarnada",
+            "?",
+            "Goodinez",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "é",
+            "o",
+            "personagem",
+            "do",
+            "Chaves",
+            "que",
+            "representa",
+            "a",
+            "bondade",
+            "encarnada",
+            "?",
+            "Chaves",
+            "."
+        ]
+    },
+    {
+        "id": "5.3729",
+        "text": "Por que o ônibus fez plástica na bunda? Porque tinha pouco assento.",
+        "tokens": [
+            "Por",
+            "que",
+            "o",
+            "ônibus",
+            "fez",
+            "plástica",
+            "na",
+            "bunda",
+            "?",
+            "Porque",
+            "tinha",
+            "pouco",
+            "assento",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "o",
+            "ônibus",
+            "fez",
+            "uma reforma",
+            "na",
+            "retaguarda",
+            "?",
+            "Porque",
+            "tinha",
+            "pouco",
+            "assento",
+            "."
+        ]
+    },
+    {
+        "id": "5.3732",
+        "text": "Qual caneta gosta de dar dura nas pessoas? Caneta de enquadro.",
+        "tokens": [
+            "Qual",
+            "caneta",
+            "gosta",
+            "de",
+            "dar",
+            "dura",
+            "nas",
+            "pessoas",
+            "?",
+            "Caneta",
+            "de",
+            "enquadro",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "caneta",
+            "gosta",
+            "de",
+            "dar",
+            "conhecimento",
+            "às",
+            "pessoas",
+            "?",
+            "Caneta",
+            "de",
+            "quadro",
+            "."
+        ]
+    },
+    {
+        "id": "5.3739",
+        "text": "O que uma jogadora disse à outra quando quis mostrar sua lealdade? \"Vou aonde você for, miga!\"",
+        "tokens": [
+            "O",
+            "que",
+            "uma",
+            "jogadora",
+            "disse",
+            "à",
+            "outra",
+            "quando",
+            "quis",
+            "mostrar",
+            "sua",
+            "lealdade",
+            "?",
+            "\"",
+            "Vou",
+            "aonde",
+            "você",
+            "for , miga",
+            "!",
+            "\""
+        ],
+        "edited tokens": [
+            "O",
+            "que",
+            "uma",
+            "jogadora",
+            "disse",
+            "à",
+            "outra",
+            "quando",
+            "quis",
+            "mostrar",
+            "sua",
+            "lealdade",
+            "?",
+            "\"",
+            "Vou",
+            "aonde",
+            "você",
+            "for, amiga",
+            "!",
+            "\""
+        ]
+    },
+    {
+        "id": "5.3750",
+        "text": "O que a serpente fazia no circo? Acobracias",
+        "tokens": [
+            "O",
+            "que",
+            "a",
+            "serpente",
+            "fazia",
+            "no",
+            "circo",
+            "?",
+            "Acobracias"
+        ],
+        "edited tokens": [
+            "O",
+            "que",
+            "a",
+            "serpente",
+            "fazia",
+            "no",
+            "circo",
+            "?",
+            "Truques"
+        ]
+    },
+    {
+        "id": "5.3755",
+        "text": "Por que o Lulu Santos desenha os piores e menores círculos do mundo? Porque usa compasso de formiga sem vontade ",
+        "tokens": [
+            "Por",
+            "que",
+            "o",
+            "Lulu Santos",
+            "desenha",
+            "os",
+            "piores",
+            "e",
+            "menores",
+            "círculos",
+            "do",
+            "mundo",
+            "?",
+            "Porque",
+            "usa",
+            "compasso",
+            "de",
+            "formiga",
+            "sem",
+            "vontade"
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "o",
+            "Lulu Santos",
+            "desenha",
+            "os",
+            "melhores",
+            "e",
+            "mais perfeitos",
+            "círculos",
+            "do",
+            "mundo",
+            "?",
+            "Porque",
+            "usa",
+            "compasso",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "5.3767",
+        "text": "Cantor que adora uma secretária eletrônica? Paulo Recado ",
+        "tokens": [
+            "Cantor",
+            "que",
+            "adora",
+            "uma",
+            "secretária",
+            "eletrônica",
+            "?",
+            "Paulo Recado"
+        ],
+        "edited tokens": [
+            "Cantor",
+            "que",
+            "adora",
+            "uma",
+            "secretária",
+            "eletrônica",
+            "?",
+            "Lulu Santos"
+        ]
+    },
+    {
+        "id": "5.3780",
+        "text": "Por que o Zé Bonitinho fazia as mulheres se engasgarem? Porque ele era o peri glote das mulheres",
+        "tokens": [
+            "Por",
+            "que",
+            "o",
+            "Zé Bonitinho",
+            "fazia",
+            "as",
+            "mulheres",
+            "se",
+            "engasgarem",
+            "?",
+            "Porque",
+            "ele",
+            "era",
+            "o",
+            "peri glote",
+            "das",
+            "mulheres"
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "o",
+            "Zé Bonitinho",
+            "fazia",
+            "as",
+            "mulheres",
+            "se",
+            "engasgarem",
+            "?",
+            "Porque",
+            "ele",
+            "era",
+            "o",
+            "galã",
+            "das",
+            "mulheres"
+        ]
+    },
+    {
+        "id": "5.3813",
+        "text": "Qual a dieta que alimenta toda a família? Alimentação parente et al.",
+        "tokens": [
+            "Qual",
+            "a",
+            "dieta",
+            "que",
+            "alimenta",
+            "toda",
+            "a",
+            "família",
+            "?",
+            "Alimentação parente et al",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "a",
+            "dieta",
+            "que",
+            "alimenta",
+            "toda",
+            "a",
+            "família",
+            "?",
+            "Alimentação familiar",
+            "."
+        ]
+    },
+    {
+        "id": "5.3815",
+        "text": "Qual musical fala sobre a morte de uma apresentadora de TV? O fantasma da Oprah.",
+        "tokens": [
+            "Qual",
+            "musical",
+            "fala",
+            "sobre",
+            "a",
+            "morte",
+            "de",
+            "uma",
+            "apresentadora",
+            "de",
+            "TV",
+            "?",
+            "O fantasma da Oprah",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "musical",
+            "fala",
+            "sobre",
+            "a",
+            "morte",
+            "de",
+            "uma",
+            "apresentadora",
+            "de",
+            "TV",
+            "?",
+            "O fantasma da ópera",
+            "."
+        ]
+    },
+    {
+        "id": "5.3825",
+        "text": "Qual o mês do Popó? Junho de Aço.",
+        "tokens": [
+            "Qual",
+            "o",
+            "mês",
+            "do",
+            "Popó",
+            "?",
+            "Junho de Aço",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "o",
+            "mês",
+            "do",
+            "Popó",
+            "?",
+            "Agosto",
+            "."
+        ]
+    },
+    {
+        "id": "5.3830",
+        "text": "De quem é essa dúzia? Dois Seis.",
+        "tokens": [
+            "De",
+            "quem",
+            "é",
+            "essa",
+            "dúzia",
+            "?",
+            "Dois Seis",
+            "."
+        ],
+        "edited tokens": [
+            "De",
+            "quem",
+            "é",
+            "essa",
+            "dúzia",
+            "?",
+            "Não sei",
+            "."
+        ]
+    },
+    {
+        "id": "5.3844",
+        "text": "Qual a frase do vilão que se lesionou? Eu Voltaren.",
+        "tokens": [
+            "Qual",
+            "a",
+            "frase",
+            "do",
+            "vilão",
+            "que",
+            "se",
+            "lesionou",
+            "?",
+            "Eu Voltaren",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "a",
+            "frase",
+            "do",
+            "vilão",
+            "que",
+            "se",
+            "lesionou",
+            "?",
+            "Eu voltarei",
+            "."
+        ]
+    },
+    {
+        "id": "5.3853",
+        "text": "Qual a banda que está sempre em primeiro nas paradas de sucesso? Umbanda.",
+        "tokens": [
+            "Qual",
+            "a",
+            "banda",
+            "que",
+            "está",
+            "sempre",
+            "em",
+            "primeiro",
+            "nas",
+            "paradas",
+            "de",
+            "sucesso",
+            "?",
+            "Umbanda",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "a",
+            "banda",
+            "que",
+            "está",
+            "sempre",
+            "em",
+            "primeiro",
+            "nas",
+            "paradas",
+            "de",
+            "sucesso",
+            "?",
+            "A Banda Mais Bonita da Cidade",
+            "."
+        ]
+    },
+    {
+        "id": "5.3866",
+        "text": "Qual religioso quer matar todo mundo? Psicopapa.",
+        "tokens": [
+            "Qual",
+            "religioso",
+            "quer",
+            "matar",
+            "todo",
+            "mundo",
+            "?",
+            "Psicopapa",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "religioso",
+            "quer",
+            "matar",
+            "todo",
+            "mundo",
+            "?",
+            "Edir Macedo",
+            "."
+        ]
+    },
+    {
+        "id": "5.3869",
+        "text": "Qual cantora internacional sempre fica em dúvida em questões múltipla escolha? A, B ou C (A Beyoncé).",
+        "tokens": [
+            "Qual",
+            "cantora",
+            "internacional",
+            "sempre",
+            "fica",
+            "em",
+            "dúvida",
+            "em",
+            "questões",
+            "múltipla",
+            "escolha",
+            "?",
+            "A",
+            ",",
+            "B",
+            "ou",
+            "C",
+            "(",
+            "A Beyoncé",
+            ")",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "cantora",
+            "internacional",
+            "sempre",
+            "fica",
+            "em",
+            "dúvida",
+            "em",
+            "questões",
+            "múltipla",
+            "escolha",
+            "?",
+            "Anastasia",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "."
+        ]
+    },
+    {
+        "id": "5.3882",
+        "text": "Por que não pode soltar pum na loja da Apple? Porque eles não tem Windows.",
+        "tokens": [
+            "Por",
+            "que",
+            "não",
+            "pode",
+            "soltar",
+            "pum",
+            "na",
+            "loja",
+            "da",
+            "Apple",
+            "?",
+            "Porque",
+            "eles",
+            "não",
+            "tem",
+            "Windows",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "não",
+            "pode",
+            "soltar",
+            "pum",
+            "na",
+            "loja",
+            "da",
+            "Apple",
+            "?",
+            "Porque",
+            "eles",
+            "não",
+            "tem",
+            "ventilação",
+            "."
+        ]
+    },
+    {
+        "id": "5.3887",
+        "text": "Qual o cantor preferido do evangelho? Jorge Versículo.",
+        "tokens": [
+            "Qual",
+            "o",
+            "cantor",
+            "preferido",
+            "do",
+            "evangelho ?",
+            "Jorge Versículo",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "o",
+            "cantor",
+            "preferido",
+            "do",
+            "evangelho ?",
+            "Leonardo",
+            "."
+        ]
+    },
+    {
+        "id": "5.3893",
+        "text": "Qual salgado é uma merda? Elma Shits.",
+        "tokens": [
+            "Qual",
+            "salgado",
+            "é",
+            "uma",
+            "merda",
+            "?",
+            "Elma Shits",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "salgado",
+            "é",
+            "uma",
+            "merda",
+            "?",
+            "Baconzitos",
+            "."
+        ]
+    },
+    {
+        "id": "5.3898",
+        "text": "Por que as fitas de videocassete se popularizaram tão rápido? Porque fez a população se VCR.",
+        "tokens": [
+            "Por",
+            "que",
+            "as",
+            "fitas",
+            "de",
+            "videocassete",
+            "se",
+            "popularizaram",
+            "tão",
+            "rápido",
+            "?",
+            "Porque",
+            "fez",
+            "a",
+            "população",
+            "se",
+            "VCR",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "as",
+            "fitas",
+            "de",
+            "videocassete",
+            "se",
+            "popularizaram",
+            "tão",
+            "rápido",
+            "?",
+            "Porque",
+            "fez",
+            "a",
+            "população",
+            "se",
+            "gravar",
+            "."
+        ]
+    },
+    {
+        "id": "5.3912",
+        "text": "Qual supermercado diz o preço de uma carne em inglês? Carré Four.",
+        "tokens": [
+            "Qual",
+            "supermercado",
+            "diz",
+            "o",
+            "preço",
+            "de",
+            "uma",
+            "carne",
+            "em",
+            "inglês",
+            "?",
+            "Carré Four",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "supermercado",
+            "diz",
+            "o",
+            "preço",
+            "de",
+            "uma",
+            "carne",
+            "em",
+            "inglês",
+            "?",
+            "Walmart",
+            "."
+        ]
+    },
+    {
+        "id": "5.3934",
+        "text": "Qual a bebida do Rei? Luwhisk 15",
+        "tokens": [
+            "Qual",
+            "a",
+            "bebida",
+            "do",
+            "Rei",
+            "?",
+            "Luwhisk 15"
+        ],
+        "edited tokens": [
+            "Qual",
+            "a",
+            "bebida",
+            "do",
+            "Rei",
+            "?",
+            "Cerveja"
+        ]
+    },
+    {
+        "id": "5.3966",
+        "text": "Qual cantora faz os homens perderem a cabeça? Guilhotina Turner.",
+        "tokens": [
+            "Qual",
+            "cantora",
+            "faz",
+            "os",
+            "homens",
+            "perderem",
+            "a",
+            "cabeça",
+            "?",
+            "Guilhotina Turner",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "cantora",
+            "faz",
+            "os",
+            "homens",
+            "perderem",
+            "a",
+            "cabeça",
+            "?",
+            "Tina Turner",
+            "."
+        ]
+    },
+    {
+        "id": "5.3969",
+        "text": "Qual banda vive num mundo 2D? Bee Gees Mensional.",
+        "tokens": [
+            "Qual",
+            "banda",
+            "vive",
+            "num",
+            "mundo",
+            "2D ?",
+            "Bee Gees Mensional",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "banda",
+            "vive",
+            "num",
+            "mundo",
+            "2D ?",
+            "Led Zeppelin",
+            "."
+        ]
+    },
+    {
+        "id": "5.3979",
+        "text": "Qual o jogador mais gordo do mundo? Fatkovic.",
+        "tokens": [
+            "Qual",
+            "o",
+            "jogador",
+            "mais",
+            "gordo",
+            "do",
+            "mundo",
+            "?",
+            "Fatkovic",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "o",
+            "jogador",
+            "mais",
+            "gordo",
+            "do",
+            "mundo",
+            "?",
+            "Ronaldinho Gaúcho",
+            "."
+        ]
+    },
+    {
+        "id": "5.3984",
+        "text": "Qual atriz vive pelada? Meryl Strip.",
+        "tokens": [
+            "Qual",
+            "atriz",
+            "vive",
+            "pelada",
+            "?",
+            "Meryl Strip",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "atriz",
+            "vive",
+            "pelada",
+            "?",
+            "Regina Duarte",
+            "."
+        ]
+    },
+    {
+        "id": "5.4000",
+        "text": "Como enchem pneu na Inglaterra? Ca Libra.",
+        "tokens": [
+            "Como",
+            "enchem",
+            "pneu",
+            "na",
+            "Inglaterra",
+            "?",
+            "Ca Libra",
+            "."
+        ],
+        "edited tokens": [
+            "Como",
+            "enchem",
+            "pneu",
+            "na",
+            "Inglaterra",
+            "?",
+            "No posto",
+            "."
+        ]
+    },
+    {
+        "id": "5.4003",
+        "text": "Qual cantor é movido a álcool? Caetanol Veloso.",
+        "tokens": [
+            "Qual",
+            "cantor",
+            "é",
+            "movido",
+            "a",
+            "álcool",
+            "?",
+            "Caetanol Veloso",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "cantor",
+            "é",
+            "movido",
+            "a",
+            "álcool",
+            "?",
+            "Pablo",
+            "."
+        ]
+    },
+    {
+        "id": "5.4014",
+        "text": "Por que no interiorzão não dá pra ouvir música? Porque lá o spotifaia.",
+        "tokens": [
+            "Por",
+            "que",
+            "no",
+            "interiorzão",
+            "não",
+            "dá",
+            "pra",
+            "ouvir",
+            "música",
+            "?",
+            "Porque",
+            "lá",
+            "o",
+            "spotifaia",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "no",
+            "interiorzão",
+            "não",
+            "dá",
+            "pra",
+            "ouvir",
+            "música",
+            "?",
+            "Porque",
+            "lá",
+            "o",
+            "silêncio impera",
+            "."
+        ]
+    },
+    {
+        "id": "5.4016",
+        "text": "Cantor que também é reporter? Latino Marcos.",
+        "tokens": [
+            "Cantor",
+            "que",
+            "também",
+            "é",
+            "reporter",
+            "?",
+            "Latino Marcos",
+            "."
+        ],
+        "edited tokens": [
+            "Cantor",
+            "que",
+            "também",
+            "é",
+            "reporter",
+            "?",
+            "Di Ferrero",
+            "."
+        ]
+    },
+    {
+        "id": "5.4025",
+        "text": "Nome de cervejaria em homenagem a um grande cantor brasileiro? CauBEER PeiCHOPPS.",
+        "tokens": [
+            "Nome",
+            "de",
+            "cervejaria",
+            "em",
+            "homenagem",
+            "a",
+            "um",
+            "grande",
+            "cantor",
+            "brasileiro",
+            "?",
+            "CauBEER PeiCHOPPS",
+            "."
+        ],
+        "edited tokens": [
+            "Nome",
+            "de",
+            "cervejaria",
+            "em",
+            "homenagem",
+            "a",
+            "um",
+            "grande",
+            "cantor",
+            "brasileiro",
+            "?",
+            "Capitão Bock",
+            "."
+        ]
+    },
+    {
+        "id": "5.4032",
+        "text": "Por que quando eu gritava dentro da caverna, o som só se repetia uma vez ? Porque era um Eco nômico.",
+        "tokens": [
+            "Por",
+            "que",
+            "quando",
+            "eu",
+            "gritava",
+            "dentro",
+            "da",
+            "caverna",
+            ",",
+            "o",
+            "som",
+            "só",
+            "se",
+            "repetia",
+            "uma",
+            "vez",
+            "?",
+            "Porque",
+            "era",
+            "um",
+            "Eco nômico",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "quando",
+            "eu",
+            "gritava",
+            "dentro",
+            "da",
+            "caverna",
+            ",",
+            "o",
+            "som",
+            "só",
+            "se",
+            "repetia",
+            "uma",
+            "vez",
+            "?",
+            "Porque",
+            "era",
+            "pouco",
+            "eco",
+            "."
+        ]
+    },
+    {
+        "id": "5.4034",
+        "text": "Por que o bispo ligou pro Ed às 5h da manhã? Pro Ed ir mais cedo.",
+        "tokens": [
+            "Por",
+            "que",
+            "o",
+            "bispo",
+            "ligou",
+            "pro",
+            "Ed",
+            "às",
+            "5h",
+            "da",
+            "manhã",
+            "?",
+            "Pro",
+            "Ed ir mais cedo",
+            "."
+        ],
+        "edited tokens": [
+            "Por",
+            "que",
+            "o",
+            "bispo",
+            "ligou",
+            "pro",
+            "Ed",
+            "às",
+            "5h",
+            "da",
+            "manhã",
+            "?",
+            "Pro",
+            "Ed acordar",
+            "."
+        ]
+    },
+    {
+        "id": "5.4042",
+        "text": "Em que cidade baiana todo mundo bate em mulher? Victor Ilhéus.",
+        "tokens": [
+            "Em",
+            "que",
+            "cidade",
+            "baiana",
+            "todo",
+            "mundo",
+            "bate",
+            "em",
+            "mulher",
+            "?",
+            "Victor Ilhéus",
+            "."
+        ],
+        "edited tokens": [
+            "Em",
+            "que",
+            "cidade",
+            "baiana",
+            "todo",
+            "mundo",
+            "bate",
+            "em",
+            "mulher",
+            "?",
+            "Ilhéus",
+            "."
+        ]
+    },
+    {
+        "id": "5.4046",
+        "text": "Como chamam as gordas na Indonésia? Bali gudas.",
+        "tokens": [
+            "Como",
+            "chamam",
+            "as",
+            "gordas",
+            "na",
+            "Indonésia",
+            "?",
+            "Bali gudas",
+            "."
+        ],
+        "edited tokens": [
+            "Como",
+            "chamam",
+            "as",
+            "gordas",
+            "na",
+            "Indonésia",
+            "?",
+            "Gordas",
+            "."
+        ]
+    },
+    {
+        "id": "5.4064",
+        "text": "Qual o legume que toca música? Aipo-d.",
+        "tokens": [
+            "Qual",
+            "o",
+            "legume",
+            "que",
+            "toca",
+            "música",
+            "?",
+            "Aipo-d",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "o",
+            "legume",
+            "que",
+            "toca",
+            "música",
+            "?",
+            "Cenoura",
+            "."
+        ]
+    },
+    {
+        "id": "5.4066",
+        "text": "Qual é a empresa de eletrônicos que demite os funcionários idosos? Hua Wei.",
+        "tokens": [
+            "Qual",
+            "é",
+            "a",
+            "empresa",
+            "de",
+            "eletrônicos",
+            "que",
+            "demite",
+            "os",
+            "funcionários",
+            "idosos",
+            "?",
+            "Hua Wei",
+            "."
+        ],
+        "edited tokens": [
+            "Qual",
+            "é",
+            "a",
+            "empresa",
+            "de",
+            "eletrônicos",
+            "que",
+            "demite",
+            "os",
+            "funcionários",
+            "idosos",
+            "?",
+            "Apple",
+            "."
+        ]
+    },
+    {
+        "id": "5.4075",
+        "text": "Quando Michael Jackson visitou o cantor do NX Zero, que ditado foi criado? Em casa Di Ferrero o Ex Preto é de Pau.",
+        "tokens": [
+            "Quando",
+            "Michael Jackson",
+            "visitou",
+            "o",
+            "cantor",
+            "do",
+            "NX Zero",
+            ",",
+            "que",
+            "ditado",
+            "foi",
+            "criado",
+            "?",
+            "Em",
+            "casa Di Ferrero",
+            "o",
+            "Ex Preto",
+            "é",
+            "de",
+            "Pau",
+            "."
+        ],
+        "edited tokens": [
+            "Quando",
+            "um hipócrita",
+            "visitou",
+            "o",
+            "profissional",
+            "do",
+            "ferro",
+            ",",
+            "que",
+            "ditado",
+            "foi",
+            "criado",
+            "?",
+            "Em",
+            "casa de ferreiro",
+            "o",
+            "espeto",
+            "é",
+            "de",
+            "Pau",
+            "."
+        ]
     }
 ]
-
