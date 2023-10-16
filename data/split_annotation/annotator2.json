@@ -3095,7 +3095,7 @@
     },
     {
         "id": "4.270",
-        "text": "Quanto espaço vai ficar livre na Unisão Europeia depois do Brexit? 1 GB.",
+        "text": "Quanto espaço vai ficar livre na União Europeia depois do Brexit? 1 GB.",
         "tokens": [
             "Quanto",
             "espaço",
@@ -3103,7 +3103,7 @@
             "ficar",
             "livre",
             "na",
-            "Unisão Europeia",
+            "União Europeia",
             "depois",
             "do",
             "Brexit",
@@ -3583,14 +3583,14 @@
     },
     {
         "id": "4.309",
-        "text": "Qual é a doença que maata mais insectos? É a insectiSIDA.",
+        "text": "Qual é a doença que mata mais insectos? É a insectiSIDA.",
         "tokens": [
             "Qual",
             "é",
             "a",
             "doença",
             "que",
-            "maata",
+            "mata",
             "mais",
             "insectos",
             "?",
@@ -4060,3 +4060,4 @@
         ]
     }
 ]
+
