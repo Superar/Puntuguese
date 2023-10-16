@@ -1,3 +1,5 @@
+backups/
+
 data/features/
 data/features_by_dialect/
 data/cross_validation/
