@@ -15,7 +15,10 @@ def edited_idx(row):
     return [i for i, (t, e) in enumerate(token_pairs) if t != e and e]
 
 
-def word_mean_pooling(data, tokenizer, model):
+def word_mean_pooling(data, tokenizer, model, uncased=False):
+    if uncased:
+        data = data.apply(lambda x: [t.lower() for t in x])
+
     encoded_input = tokenizer(data.to_list(),
                               is_split_into_words=True,
                               return_tensors='pt',
@@ -49,8 +52,10 @@ parser.add_argument('--n_clusters', '-n',
                     help='Number of clusters.',
                     required=False, type=int,
                     default=20)
+parser.add_argument('--uncased', '-u',
+                    help='First turn every token into lowercase.',
+                    required=False, action='store_true')
 args = parser.parse_args()
-
 
 editions = dict()
 for filepath in args.editions.iterdir():
@@ -75,7 +80,8 @@ model = AutoModel.from_pretrained(args.model).to(device)
 print('Getting original tokens embeddings')
 embedded_original_texts = word_mean_pooling(edited_df['tokens'],
                                             tokenizer,
-                                            model)
+                                            model,
+                                            args.uncased)
 # Original tokens -- Get only edited tokens
 embedded_original_tokens = list()
 for i in range(len(edited_df)):
@@ -97,7 +103,8 @@ del embedded_original_tokens
 print('Getting edited tokens embeddings')
 embedded_edited_texts = word_mean_pooling(edited_df['edited tokens'],
                                           tokenizer,
-                                          model)
+                                          model,
+                                          args.uncased)
 # Edited tokens -- Get only edited tokens
 embedded_edited_tokens = list()
 for i in range(len(edited_df)):
