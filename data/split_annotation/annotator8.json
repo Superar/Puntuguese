@@ -3301,14 +3301,14 @@
     },
     {
         "id": "4.1",
-        "text": "Por que é que o Capitão Amética ficou sem abrigo? Porque ainda usa o escudo.",
+        "text": "Por que é que o Capitão América ficou sem abrigo? Porque ainda usa o escudo.",
         "tokens": [
             "Por",
             "que",
             "é",
             "que",
             "o",
-            "Capitão Amética",
+            "Capitão América",
             "ficou",
             "sem",
             "abrigo",
@@ -4018,3 +4018,4 @@
         ]
     }
 ]
+

@@ -3203,7 +3203,7 @@
     },
     {
         "id": "4.286",
-        "text": "O que e que os putos huperativos comem ao pequeno-almoço? Ovos mexidos.",
+        "text": "O que e que os putos hiperativos comem ao pequeno-almoço? Ovos mexidos.",
         "tokens": [
             "O",
             "que",
@@ -3211,7 +3211,7 @@
             "que",
             "os",
             "putos",
-            "huperativos",
+            "hiperativos",
             "comem",
             "ao",
             "pequeno-almoço",
@@ -3770,3 +3770,4 @@
         ]
     }
 ]
+

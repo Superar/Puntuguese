@@ -541,7 +541,7 @@
     },
     {
         "id": "4.1",
-        "text": "Por que é que o Capitão Amética ficou sem abrigo? Porque ainda usa o escudo.",
+        "text": "Por que é que o Capitão América ficou sem abrigo? Porque ainda usa o escudo.",
         "signs": [
             {
                 "homograph": true,
@@ -3817,7 +3817,7 @@
     },
     {
         "id": "4.270",
-        "text": "Quanto espaço vai ficar livre na Unisão Europeia depois do Brexit? 1 GB.",
+        "text": "Quanto espaço vai ficar livre na União Europeia depois do Brexit? 1 GB.",
         "signs": [
             {
                 "homograph": true,
@@ -3960,18 +3960,6 @@
         ]
     },
     {
-        "id": "4.282",
-        "text": "",
-        "signs": [
-            {
-                "homograph": false,
-                "homophone": false,
-                "pun sign": "feitiço",
-                "alternative sign": ["feito isso"]
-            }
-        ]
-    },
-    {
         "id": "4.283",
         "text": "Qual é o carro que consegue transportar mais porcos? É o Nissan na vara.",
         "signs": [
@@ -4009,7 +3997,7 @@
     },
     {
         "id": "4.286",
-        "text": "O que e que os putos huperativos comem ao pequeno-almoço? Ovos mexidos.",
+        "text": "O que e que os putos hiperativos comem ao pequeno-almoço? Ovos mexidos.",
         "signs": [
             {
                 "homograph": true,
@@ -7525,7 +7513,7 @@
     },
     {
         "id": "4.574",
-        "text": "Porque é que a cigarra morreu? Porque tentou pinas um cigarro.",
+        "text": "Porque é que a cigarra morreu? Porque tentou pinar um cigarro.",
         "signs": [
             {
                 "homograph": true,
@@ -14701,7 +14689,7 @@
     },
     {
         "id": "5.455",
-        "text": "Por que Jesus está em constante aprednizagem? Porque ele tá num curso fixo.",
+        "text": "Por que Jesus está em constante aprendizagem? Porque ele tá num curso fixo.",
         "signs": [
             {
                 "homograph": false,
@@ -26389,7 +26377,7 @@
     },
     {
         "id": "5.1378",
-        "text": "Por que eu não faço acupunltura? Porque é a maior furada.",
+        "text": "Por que eu não faço acupuntura? Porque é a maior furada.",
         "signs": [
             {
                 "homograph": true,
@@ -51901,7 +51889,7 @@
     },
     {
         "id": "5.3491",
-        "text": "Por que o cara não parava de tocar a companhia? Pra ver se a Ringo Starva funcionando.",
+        "text": "Por que o cara não parava de tocar a campanhia? Pra ver se a Ringo Starva funcionando.",
         "signs": [
             {
                 "homograph": false,
@@ -53689,7 +53677,6 @@
     },
     {
         "id": "5.3639",
-
         "text": "Qual poção você toma e desapega, desapega? O elixir.",
         "signs": [
             {

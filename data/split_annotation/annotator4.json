@@ -47,9 +47,9 @@
             "dificuldade",
             "em",
             "controlar",
-            "as",
-            "suas",
-            "pupilas",
+            "os",
+            "seus",
+            "alunos",
             "."
         ]
     },
@@ -83,7 +83,7 @@
             "o",
             "Instagram ?",
             "O",
-            "Instaquilogram",
+            "Facebook",
             "."
         ]
     },
@@ -121,7 +121,7 @@
             "Por",
             "causa",
             "da",
-            "hipopotermia",
+            "hipotermia",
             "."
         ]
     },
@@ -165,7 +165,7 @@
             "?",
             "Porque",
             "era",
-            "bom na party",
+            "animado",
             "."
         ]
     },
@@ -240,10 +240,10 @@
             "o",
             "forno",
             "está",
-            "virado",
-            "para",
-            "a",
-            "parede",
+            "tão",
+            "quente",
+            "",
+            "",
             "?"
         ]
     },
@@ -286,7 +286,7 @@
             "encontrei",
             "o",
             "meu",
-            "ás pirado"
+            "aspirador"
         ]
     },
     {
@@ -321,7 +321,7 @@
             "o",
             "futuro",
             "?",
-            "Cãoguru",
+            "Vidente",
             "."
         ]
     },
@@ -351,7 +351,7 @@
             "simpatia",
             "\"",
             "?",
-            "Nãopotio",
+            "Antipatia",
             "."
         ]
     },
@@ -380,57 +380,9 @@
             "inglês",
             "?",
             "\"",
-            "Put a keep are you",
+            "Fuck",
             "!",
             "\""
-        ]
-    },
-    {
-        "id": "4.639",
-        "text": "NOTÍCIA DE ÚLTIMA HORA: Ocorreu uma grave fuga de gás no intestino. O cocó teve de ser evacuado.",
-        "tokens": [
-            "NOTÍCIA",
-            "DE",
-            "ÚLTIMA HORA",
-            ":",
-            "Ocorreu",
-            "uma",
-            "grave",
-            "fuga",
-            "de",
-            "gás",
-            "no",
-            "intestino",
-            ".",
-            "O",
-            "cocó",
-            "teve",
-            "de",
-            "ser",
-            "evacuado",
-            "."
-        ],
-        "edited tokens": [
-            "NOTÍCIA",
-            "DE",
-            "ÚLTIMA HORA",
-            ":",
-            "Ocorreu",
-            "uma",
-            "grave",
-            "fuga",
-            "de",
-            "gás",
-            "no",
-            "intestino",
-            ".",
-            "O",
-            "cocó",
-            "teve",
-            "de",
-            "ser",
-            "evacuado",
-            "."
         ]
     },
     {
@@ -476,8 +428,8 @@
             "mudar",
             "o",
             "nome",
-            "para",
-            "Doisberto",
+            "",
+            "",
             "."
         ]
     },
@@ -511,57 +463,7 @@
             "cabeça",
             "?",
             "Um",
-            "bone",
-            "."
-        ]
-    },
-    {
-        "id": "4.419",
-        "text": "Um homem vai a cair dum prédio e a meio repara numa janela. Qual é o filme? Duro na queda.",
-        "tokens": [
-            "Um",
-            "homem",
-            "vai",
-            "a",
-            "cair",
-            "dum",
-            "prédio",
-            "e",
-            "a",
-            "meio",
-            "repara",
-            "numa",
-            "janela",
-            ".",
-            "Qual",
-            "é",
-            "o",
-            "filme",
-            "?",
-            "Duro na queda",
-            "."
-        ],
-        "edited tokens": [
-            "Um",
-            "homem",
-            "vai",
-            "a",
-            "cair",
-            "dum",
-            "prédio",
-            "e",
-            "a",
-            "meio",
-            "repara",
-            "numa",
-            "janela",
-            ".",
-            "Qual",
-            "é",
-            "o",
-            "filme",
-            "?",
-            "Duro na queda",
+            "boné",
             "."
         ]
     },
@@ -589,7 +491,7 @@
             "dos",
             "gelados",
             "?",
-            "Adam Lamber-t",
+            "As Doce",
             "."
         ]
     },
@@ -625,7 +527,7 @@
             "12",
             "anos",
             "?",
-            "Bater à piñata",
+            "Bricar às escondidas",
             "."
         ]
     },
@@ -671,8 +573,8 @@
             "o",
             "outro",
             ":",
-            "Ahah",
-            "caíste que nem um patinho"
+            "",
+            "caíste "
         ]
     },
     {
@@ -704,7 +606,7 @@
             "uma",
             "relação",
             "?",
-            "Nestum",
+            "Não és tu",
             ",",
             "sou",
             "eu",
@@ -755,29 +657,21 @@
             "e",
             "a",
             "outra",
-            "mija-se a rir",
+            "mija",
             "."
         ]
     },
     {
         "id": "4.411",
         "text": "Alpinistas? Há por aí aos montes.",
-        "tokens": [
-            "Alpinistas",
-            "?",
-            "Há",
-            "por",
-            "aí",
-            "aos montes",
-            "."
-        ],
+        "tokens": ["Alpinistas", "?", "Há", "por", "aí", "aos montes", "."],
         "edited tokens": [
             "Alpinistas",
             "?",
             "Há",
             "por",
             "aí",
-            "aos montes",
+            "nos montes",
             "."
         ]
     },
@@ -817,7 +711,7 @@
             "com",
             "boleia",
             "e",
-            "Assembleia",
+            "há sem boleia",
             "."
         ]
     },
@@ -851,7 +745,7 @@
             "arranjou",
             "trabalho",
             "?",
-            "Empre-gado",
+            "Empregado",
             "."
         ]
     },
@@ -877,47 +771,7 @@
             "as",
             "vacas",
             "?",
-            "Acém",
-            "."
-        ]
-    },
-    {
-        "id": "4.312",
-        "text": "Porque é que a mulher do Einstein usa bikini? Porque tem um bom físico.",
-        "tokens": [
-            "Porque",
-            "é",
-            "que",
-            "a",
-            "mulher",
-            "do",
-            "Einstein",
-            "usa",
-            "bikini",
-            "?",
-            "Porque",
-            "tem",
-            "um",
-            "bom",
-            "físico",
-            "."
-        ],
-        "edited tokens": [
-            "Porque",
-            "é",
-            "que",
-            "a",
-            "mulher",
-            "do",
-            "Einstein",
-            "usa",
-            "bikini",
-            "?",
-            "Porque",
-            "tem",
-            "um",
-            "bom",
-            "físico",
+            "20 km/h",
             "."
         ]
     },
@@ -953,7 +807,7 @@
             "muitos",
             "pontapés",
             "?",
-            "Produto interno bruto",
+            "Feto agitado",
             "."
         ]
     },
@@ -995,7 +849,7 @@
             "em",
             "comum",
             "?",
-            "Tim",
+            "Nada",
             "!"
         ]
     },
@@ -1029,7 +883,7 @@
             "?",
             "É",
             "a",
-            "Rádio Comer-cereal",
+            "Rádio Comercial",
             "."
         ]
     },
@@ -1063,7 +917,7 @@
             "pila",
             "?",
             "Numa",
-            "mole dura",
+            "caixa",
             "."
         ]
     },
@@ -1095,7 +949,7 @@
             "?",
             "A",
             "banda",
-            "gástrica",
+            "Queen",
             "."
         ]
     },
@@ -1127,7 +981,7 @@
             "pizza",
             "?",
             "Com",
-            "massa cinzenta",
+            "massa, tomate e queijo",
             "."
         ]
     },
@@ -1159,7 +1013,7 @@
             "?",
             "Dás-lhe",
             "um",
-            "tampão",
+            "pedragulho",
             "e",
             "perguntas",
             "de",
@@ -1195,9 +1049,9 @@
             "?",
             "É",
             "um",
-            "buaquinho",
-            "na",
-            "pauede",
+            "animal",
+            "",
+            "",
             "."
         ]
     },
@@ -1227,99 +1081,7 @@
             ".",
             "Mas",
             "no",
-            "Zimbabué",
-            "."
-        ]
-    },
-    {
-        "id": "4.248",
-        "text": "Qual é o único país que pode conduzir? A Indonésia, porque tem Jakarta.",
-        "tokens": [
-            "Qual",
-            "é",
-            "o",
-            "único",
-            "país",
-            "que",
-            "pode",
-            "conduzir",
-            "?",
-            "A",
-            "Indonésia",
-            ",",
-            "porque",
-            "tem",
-            "Jakarta",
-            "."
-        ],
-        "edited tokens": [
-            "Qual",
-            "é",
-            "o",
-            "único",
-            "país",
-            "que",
-            "pode",
-            "conduzir",
-            "?",
-            "A",
-            "Indonésia",
-            ",",
-            "porque",
-            "tem",
-            "Jakarta",
-            "."
-        ]
-    },
-    {
-        "id": "4.35",
-        "text": "Quem é a mulher mais sexy do mundo? A Irmã Lúcia. Foi a única mulher que fez vir o Papa.",
-        "tokens": [
-            "Quem",
-            "é",
-            "a",
-            "mulher",
-            "mais",
-            "sexy",
-            "do",
-            "mundo",
-            "?",
-            "A",
-            "Irmã Lúcia",
-            ".",
-            "Foi",
-            "a",
-            "única",
-            "mulher",
-            "que",
-            "fez",
-            "vir",
-            "o",
-            "Papa",
-            "."
-        ],
-        "edited tokens": [
-            "Quem",
-            "é",
-            "a",
-            "mulher",
-            "mais",
-            "sexy",
-            "do",
-            "mundo",
-            "?",
-            "A",
-            "Irmã Lúcia",
-            ".",
-            "Foi",
-            "a",
-            "única",
-            "mulher",
-            "que",
-            "fez",
-            "vir",
-            "o",
-            "Papa",
+            "Zimbabué há",
             "."
         ]
     },
@@ -1365,7 +1127,7 @@
             "Porque",
             "o",
             "sexo",
-            "anal",
+            "anual",
             "não",
             "engravida",
             "."
@@ -1408,7 +1170,7 @@
             "É",
             "que",
             "ser",
-            "probre",
+            "rico",
             "todos",
             "os",
             "dias",
@@ -1447,7 +1209,7 @@
             "Cerca",
             "de",
             "um",
-            "Carte D'Or",
+            "quarto de hora",
             "."
         ]
     },
@@ -1491,7 +1253,7 @@
             "escreve",
             "e",
             "o",
-            "troglodita",
+            "professor dita",
             "."
         ]
     },
@@ -1526,12 +1288,12 @@
             "virgem",
             "?",
             "Com",
-            "as",
+            "",
             "azeitonas",
-            "que",
-            "não",
-            "foram",
-            "comidas",
+            "",
+            "",
+            "",
+            "",
             "."
         ]
     },
@@ -1565,7 +1327,7 @@
             "Devia",
             "ser",
             "iogurte",
-            "grego",
+            "estragado",
             "."
         ]
     },
@@ -1589,7 +1351,7 @@
             "há",
             "por",
             "aí",
-            "aos trambolhões",
+            "aos montes",
             "."
         ]
     },
@@ -1621,7 +1383,7 @@
             "camião",
             "cheio",
             "de",
-            "Vicks VapoRub",
+            "cerveja",
             "capotou",
             "na",
             "autoestrada",
@@ -1665,7 +1427,7 @@
             "arroz",
             "?",
             "Em",
-            "banho Di Maria",
+            "banho de maria",
             "."
         ]
     },
@@ -1689,13 +1451,13 @@
         "edited tokens": [
             "Vira-se",
             "um",
-            "posta-moedas",
+            "porta-moedas",
             "para",
             "uma",
             "carteira",
             ":",
             "nunca",
-            "notas",
+            "reparas",
             "em",
             "mim",
             "..."
@@ -1731,7 +1493,7 @@
             "tempos",
             "livres",
             "?",
-            "Jogam às cartas",
+            "Nada",
             "."
         ]
     },
@@ -1763,7 +1525,7 @@
             "?",
             "É",
             "o",
-            "Clediziaverdade",
+            "Júlio",
             "."
         ]
     },
@@ -1787,7 +1549,7 @@
             "que",
             "é",
             "uma",
-            "fofoca",
+            "foca",
             "?",
             "É",
             "um",
@@ -1823,7 +1585,7 @@
             "que",
             "os",
             "indecisos",
-            "não",
+            "",
             "atravessam",
             "o",
             "rio",
@@ -1869,7 +1631,7 @@
             "de",
             "validade",
             "?",
-            "O Twix",
+            "O Kinder",
             "."
         ]
     },
@@ -1905,7 +1667,7 @@
             "Porque",
             "as",
             "pessoas",
-            "estão mortinhas por entrar",
+            "estão",
             "lá",
             "dentro",
             "."
@@ -1943,7 +1705,7 @@
             "de",
             "visão",
             "?",
-            "Estarábico",
+            "Árabe",
             "."
         ]
     },
@@ -1971,7 +1733,7 @@
             "da",
             "Xana",
             "?",
-            "Toc Toc",
+            "Arroz de pato",
             "."
         ]
     },
@@ -2005,7 +1767,7 @@
             "?",
             "Dá",
             "uma",
-            "consulta",
+            "revisão",
             "ao",
             "saldo",
             "."
@@ -2041,7 +1803,7 @@
             "Na",
             "feira",
             "da",
-            "ladra",
+            "lata",
             "."
         ]
     },
@@ -2077,7 +1839,7 @@
             "cinema",
             "do",
             "Star Wars ?",
-            "Chew , bacca",
+            "Silêncio",
             "!"
         ]
     },
@@ -2135,7 +1897,7 @@
             "o",
             "filme",
             "?",
-            "Só Cinha",
+            "Sozinho",
             "em",
             "casa",
             "."
@@ -2171,7 +1933,7 @@
             "Agora",
             "tenho",
             "mais",
-            "memória-rã",
+            "memória RAM",
             "."
         ]
     },
@@ -2208,10 +1970,10 @@
             "\"",
             "?",
             "Eu",
-            "até",
-            "dizia",
+            "",
+            "digo",
             ",",
-            "mas",
+            "",
             "é",
             "tabu",
             "."
@@ -2252,7 +2014,7 @@
             "todos",
             "e",
             "todos",
-            "peru",
+            "por um ",
             "\"",
             "."
         ]
@@ -2305,7 +2067,7 @@
             "que",
             "estou",
             "com",
-            "a Migas",
+            "a minha Migas",
             "."
         ]
     },
@@ -2339,7 +2101,7 @@
             "um",
             "ovo",
             "?",
-            "Kosovo",
+            "Panela",
             "."
         ]
     },
@@ -2377,7 +2139,7 @@
             "têm",
             "medo",
             "de",
-            "levar nas trombas",
+            "se magoar",
             "."
         ]
     },
@@ -2413,7 +2175,7 @@
             "maçã",
             "?",
             "Apanhou",
-            "sidra",
+            "uma indigestão",
             "."
         ]
     },
@@ -2439,13 +2201,13 @@
             "que",
             "come",
             "um",
-            "canibal",
+            "animal",
             "vegetariano",
             "?",
             "A",
             "planta",
-            "dos",
-            "pés",
+            "",
+            "",
             "."
         ]
     },
@@ -2475,7 +2237,7 @@
             "Dalai Lama ?",
             "Arroz",
             "de",
-            "miúdos",
+            "pato",
             "."
         ]
     },
@@ -2518,7 +2280,7 @@
             "que",
             "não",
             "foram",
-            "comidas"
+            "usadas"
         ]
     },
     {
@@ -2560,8 +2322,8 @@
             "Não",
             ",",
             "é",
-            "uma",
-            "perca",
+            "um",
+            "gasto",
             "de",
             "tempo",
             "."
@@ -2569,7 +2331,7 @@
     },
     {
         "id": "4.574",
-        "text": "Porque é que a cigarra morreu? Porque tentou pinas um cigarro.",
+        "text": "Porque é que a cigarra morreu? Porque tentou pinar um cigarro.",
         "tokens": [
             "Porque",
             "é",
@@ -2580,7 +2342,7 @@
             "?",
             "Porque",
             "tentou",
-            "pinas",
+            "pinar",
             "um",
             "cigarro",
             "."
@@ -2595,7 +2357,7 @@
             "?",
             "Porque",
             "tentou",
-            "pinas",
+            "enganar",
             "um",
             "cigarro",
             "."
@@ -2641,7 +2403,7 @@
             "diferença",
             "entre",
             "a",
-            "América",
+            "maçã",
             "e",
             "um",
             "iogurte",
@@ -2701,7 +2463,7 @@
             "avião",
             "?",
             "O",
-            "check-Quim",
+            "check-in",
             "."
         ]
     },
@@ -2745,7 +2507,7 @@
             "que",
             "aconteceu",
             "?",
-            "Brochedo",
+            "Magia",
             "."
         ]
     },
@@ -2771,7 +2533,7 @@
             "dos",
             "gatos",
             "?",
-            "Gatólica",
+            "Católica",
             "."
         ]
     },
@@ -2804,7 +2566,7 @@
             "não",
             "pára",
             "de",
-            "espirrar",
+            "avariar",
             "?",
             "Porque",
             "apanhou",
@@ -2847,7 +2609,7 @@
             "?",
             "Porque",
             "é",
-            "estéreo",
+            "impossivel",
             "."
         ]
     },
@@ -2884,10 +2646,10 @@
             "microscópio",
             "?",
             "Uma",
-            "blacktéria",
+            "bactéria",
             "e",
             "um",
-            "pretozoário",
+            "protozoário",
             "."
         ]
     },
@@ -2935,7 +2697,7 @@
             "é",
             "um",
             "caso",
-            "pontual",
+            "",
             "?"
         ]
     },
@@ -2977,7 +2739,7 @@
             "vai",
             "mais",
             "a",
-            "festas",
+            "reuniões",
             "."
         ]
     },
@@ -3033,7 +2795,7 @@
             "gordos",
             "foi",
             "o",
-            "panike",
+            "panico",
             "."
         ]
     },
@@ -3067,57 +2829,7 @@
             "em",
             "indiano",
             "?",
-            "Chamuças gracias",
-            "."
-        ]
-    },
-    {
-        "id": "4.337",
-        "text": "Porque é que a mão não pode medir mais do que 31 cm? Porque aí já seria um pé.",
-        "tokens": [
-            "Porque",
-            "é",
-            "que",
-            "a",
-            "mão",
-            "não",
-            "pode",
-            "medir",
-            "mais",
-            "do",
-            "que",
-            "31",
-            "cm",
-            "?",
-            "Porque",
-            "aí",
-            "já",
-            "seria",
-            "um",
-            "pé",
-            "."
-        ],
-        "edited tokens": [
-            "Porque",
-            "é",
-            "que",
-            "a",
-            "mão",
-            "não",
-            "pode",
-            "medir",
-            "mais",
-            "do",
-            "que",
-            "31",
-            "cm",
-            "?",
-            "Porque",
-            "aí",
-            "já",
-            "seria",
-            "um",
-            "pé",
+            "धन्यवाद",
             "."
         ]
     },
@@ -3151,7 +2863,7 @@
             "de",
             "árvores",
             "?",
-            "Entroncamento",
+            "Cruzamento",
             "."
         ]
     },
@@ -3185,7 +2897,7 @@
             "na",
             "Índia",
             "?",
-            "Indiano",
+            "वर्ष",
             "."
         ]
     },
@@ -3223,7 +2935,7 @@
             "?",
             "Ele",
             "fica",
-            "escondildo",
+            "escondido",
             "."
         ]
     },
@@ -3250,8 +2962,8 @@
             "os",
             "olhos",
             "?",
-            "Uma",
-            "entrevista",
+            "O",
+            "nariz",
             "."
         ]
     },
@@ -3287,7 +2999,7 @@
             ",",
             "ele",
             "é",
-            "didjeridu",
+            "digerido",
             "no",
             "estômago",
             "?"
@@ -3329,7 +3041,7 @@
             "?",
             "Porque",
             "são",
-            "tworradas",
+            "torradas",
             "."
         ]
     },
@@ -3360,7 +3072,7 @@
             "é",
             "que",
             "a",
-            "zebra",
+            "aranha",
             "diz",
             "ao",
             "mosquinho",
@@ -3417,7 +3129,7 @@
             "aberta",
             ".",
             "Chamava-se",
-            "Maxi Lar",
+            "Ikea",
             "."
         ]
     },
@@ -3450,10 +3162,10 @@
             "boi",
             "\"",
             "em",
-            "espanhol",
+            "português",
             "?",
             "Intestino",
-            "del gado",
+            "delgado",
             "."
         ]
     },
@@ -3483,7 +3195,7 @@
             "banana",
             "?",
             "Um",
-            "banano-segundo",
+            "segundo",
             "."
         ]
     },
@@ -3529,7 +3241,7 @@
             "Natal",
             "?",
             "Porque",
-            "astro-no-mia",
+            "é astronomia",
             "."
         ]
     },
@@ -3565,7 +3277,7 @@
             "tem",
             "H.",
             "Como",
-            "as coisas mudam de um dia para o outro",
+            "os dias mudam",
             "..."
         ]
     },
@@ -3601,17 +3313,11 @@
             "cá",
             "consigo",
             "fazê-lo",
-            "de",
-            "olhos",
-            "fechados",
+            "",
+            "",
+            "",
             "."
         ]
-    },
-    {
-        "id": "4.282",
-        "text": "",
-        "tokens": [],
-        "edited tokens": []
     },
     {
         "id": "4.132",
@@ -3653,43 +3359,7 @@
             "tão",
             "meiga",
             "como",
-            "dantes",
-            "."
-        ]
-    },
-    {
-        "id": "4.9",
-        "text": "Que nome se dá a um \"A\" num trampolim? Assaltante.",
-        "tokens": [
-            "Que",
-            "nome",
-            "se",
-            "dá",
-            "a",
-            "um",
-            "\"",
-            "A",
-            "\"",
-            "num",
-            "trampolim",
-            "?",
-            "Assaltante",
-            "."
-        ],
-        "edited tokens": [
-            "Que",
-            "nome",
-            "se",
-            "dá",
-            "a",
-            "um",
-            "\"",
-            "A",
-            "\"",
-            "num",
-            "trampolim",
-            "?",
-            "Assaltante",
+            "antigamente",
             "."
         ]
     },
@@ -3729,9 +3399,9 @@
             "cima",
             "da",
             "outra",
-            "e",
-            "POMBA POMBA",
-            "POMBA",
+            "",
+            "",
+            "",
             "!"
         ]
     },
@@ -3769,7 +3439,7 @@
             "Por",
             "causa",
             "do",
-            "bule-ing",
+            "bule",
             "."
         ]
     },
@@ -3798,12 +3468,12 @@
             "se",
             "diz",
             "\"",
-            "peido",
+            "Albufeira",
             "\"",
             "em",
             "árabe",
             "?",
-            "Al-bufeira",
+            "Albufeira",
             "."
         ]
     },
@@ -3839,7 +3509,7 @@
             "está",
             "triste",
             "?",
-            "Depressão",
+            "Panela",
             "."
         ]
     },
@@ -3881,7 +3551,7 @@
             "qual",
             "seria",
             "?",
-            "Acorde ão",
+            "Acordeão",
             "!"
         ]
     }
