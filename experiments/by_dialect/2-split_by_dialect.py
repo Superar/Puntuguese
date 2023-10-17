@@ -1,4 +1,4 @@
-# pipenv run python experiments/by_dialect/2-split_by_dialect.py -c data/classification_corpus_preprocesses.json -o data/cv_by_dialect
+# pipenv run python experiments/by_dialect/2-split_by_dialect.py -c data/classification_corpus_preprocessed.json -o data/cv_by_dialect
 import argparse
 from pathlib import Path
 
