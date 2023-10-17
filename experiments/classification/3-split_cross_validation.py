@@ -1,4 +1,4 @@
-# pipenv run python experiments/classification/3-split_cross_validation.py -c data/classification_corpus_preprocesses.json -o data/cross_validation
+# pipenv run python experiments/classification/3-split_cross_validation.py -c data/classification_corpus_preprocessed.json -o data/cross_validation
 import argparse
 from pathlib import Path
 
@@ -23,7 +23,7 @@ folds = skf.split(X, y)
 for i, (train_index, test_index) in enumerate(folds):
     train, test = df.iloc[train_index], df.iloc[test_index]
     fold_directory = args.output / f'fold_{i}'
-    fold_directory.mkdir(exist_ok=True)
+    fold_directory.mkdir(exist_ok=True, parents=True)
 
     train.to_json(fold_directory / 'train.json', orient='records',
                   force_ascii=False, indent=4)
