@@ -85,7 +85,7 @@ Get-ChildItem -Path $CROSS_VALIDATION_PATH -Name | ForEach-Object `
     pipenv run python .\main.py -v transformer test `
     --input (Join-Path (Join-Path $CROSS_VALIDATION_PATH $_) "test.json") `
     --output (Join-Path (Join-Path $PREDICTIONS_PATH "bert") ($_ + ".json")) `
-    --model (Join-Path (Join-Path (Join-Path $MODELS_PATH "bert") $_) "checkpoint-2394")
+    --model (Join-Path (Join-Path (Join-Path $MODELS_PATH "bert") $_) "checkpoint-3312")
 }
 
 Pop-Location
