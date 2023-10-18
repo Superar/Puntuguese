@@ -26,28 +26,51 @@ Get-ChildItem -Path $FEATURES_PATH -Recurse | Where-Object {$_.BaseName -Match "
     --model (Join-Path (Join-Path (Join-Path $MODELS_PATH $feature_type) $dialect) $fold)
 }
 
-# ------------- BERT -------------
-Write-Host "BERT" -ForegroundColor DarkGreen -BackgroundColor Red -NoNewline
+# ------------- BERTimbau -------------
+Write-Host "BERTimbau" -ForegroundColor DarkGreen -BackgroundColor Red -NoNewline
 Write-Output `n
 
 Get-ChildItem -Path $CROSS_VALIDATION_PATH -Recurse | Where-Object {$_.Name -Match "train.json"} | ForEach-Object {
     $dialect = $_.Directory.Parent.Name
     $fold = $_.Directory.Name
-    $checkpoint = If ($dialect -Match "PT_BR") {"checkpoint-1956"} Else {"checkpoint-441"}
-    $model = If ($dialect -match "PT_BR") {"PORTULAN/albertina-ptbr"} Else {"PORTULAN/albertina-ptpt"}
+    $checkpoint = If ($dialect -Match "PT_BR") {"checkpoint-2802"} Else {"checkpoint-510"}
+    Write-Host $dialect / $fold -ForegroundColor DarkGreen -BackgroundColor Cyan -NoNewline
+    Write-Output `n
+
+    pipenv run python .\main.py -v transformer fine-tune `
+    --input $_ `
+    --output (Join-Path (Join-Path (Join-Path $MODELS_PATH "bertimbau") $dialect) $fold) `
+
+    pipenv run python .\main.py -v transformer test `
+    --input (Join-Path $_.Directory "test.json") `
+    --output (Join-Path (Join-Path (Join-Path $PREDICTIONS_PATH "bertimbau") $dialect) ($fold + ".json")) `
+    --model (Join-Path (Join-Path (Join-Path (Join-Path $MODELS_PATH "bertimbau") $dialect) $fold) $checkpoint)
+}
+
+# ------------- ALBERTINA PT-* -------------
+Write-Host "ALBERTINA PT-*" -ForegroundColor DarkGreen -BackgroundColor Red -NoNewline
+Write-Output `n
+
+Get-ChildItem -Path $CROSS_VALIDATION_PATH -Recurse | Where-Object {$_.Name -Match "train.json"} | ForEach-Object {
+    $dialect = $_.Directory.Parent.Name
+    $fold = $_.Directory.Name
+    $checkpoint = If ($dialect -Match "PT_BR") {"checkpoint-4670"} Else {"checkpoint-850"}
+    $model = If ($dialect -match "PT_BR") {"PORTULAN/albertina-ptbr-base"} Else {"PORTULAN/albertina-ptpt-base"}
     Write-Host $dialect / $fold -ForegroundColor DarkGreen -BackgroundColor Cyan -NoNewline
     Write-Output `n
 
 
     pipenv run python .\main.py -v transformer fine-tune `
     --input $_ `
-    --output (Join-Path (Join-Path (Join-Path $MODELS_PATH "albertina") $dialect) $fold) `
-    --model $model
+    --output (Join-Path (Join-Path (Join-Path $MODELS_PATH "albertina_base") $dialect) $fold) `
+    --model $model `
+    --learning_rate 1e-6 `
+    --epochs 5
 
     pipenv run python .\main.py -v transformer test `
     --input (Join-Path $_.Directory "test.json") `
-    --output (Join-Path (Join-Path (Join-Path $PREDICTIONS_PATH "albertina") $dialect) ($fold + ".json")) `
-    --model (Join-Path (Join-Path (Join-Path (Join-Path $MODELS_PATH "albertina") $dialect) $fold) $checkpoint)
+    --output (Join-Path (Join-Path (Join-Path $PREDICTIONS_PATH "albertina_base") $dialect) ($fold + ".json")) `
+    --model (Join-Path (Join-Path (Join-Path (Join-Path $MODELS_PATH "albertina_base") $dialect) $fold) $checkpoint)
 }
 
 Pop-Location
