@@ -664,7 +664,15 @@
     {
         "id": "4.411",
         "text": "Alpinistas? Há por aí aos montes.",
-        "tokens": ["Alpinistas", "?", "Há", "por", "aí", "aos montes", "."],
+        "tokens": [
+            "Alpinistas",
+            "?",
+            "Há",
+            "por",
+            "aí",
+            "aos montes",
+            "."
+        ],
         "edited tokens": [
             "Alpinistas",
             "?",

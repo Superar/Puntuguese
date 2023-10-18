@@ -700,8 +700,20 @@
     {
         "id": "4.436",
         "text": "Sementes. Deus castiga.",
-        "tokens": ["Sementes", ".", "Deus", "castiga", "."],
-        "edited tokens": ["Se mentes", ".", "Deus", "castiga", "."]
+        "tokens": [
+            "Sementes",
+            ".",
+            "Deus",
+            "castiga",
+            "."
+        ],
+        "edited tokens": [
+            "Se mentes",
+            ".",
+            "Deus",
+            "castiga",
+            "."
+        ]
     },
     {
         "id": "4.77",
@@ -3846,4 +3858,3 @@
         ]
     }
 ]
-
