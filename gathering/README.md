@@ -1,6 +1,6 @@
 # Corpus Creation Interface
 
-This folder contains the web interface (in Portuguese) for the gathering of puns in the BRHuM corpus project.
+This folder contains the web interface (in Portuguese) for the gathering of puns in the Puntuguese corpus project.
 
 ## How to use
 
