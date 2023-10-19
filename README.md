@@ -1,6 +1,6 @@
 # Puntuguese - A Corpus of Puns in Portuguese with Micro-editions
 
-Puntuguese is a corpus of punning texts in Portuguese, including jokes in Brazilian and European Portuguese. The data has been manually gathered and curate according to our [guidelines](https://github.com/Superar/Puntuguese/blob/main/data/GUIDELINES.md). It also contains some layers of annotation:
+Puntuguese is a corpus of punning texts in Portuguese, including jokes in Brazilian and European Portuguese. The data has been manually gathered and curate according to our [guidelines](data/GUIDELINES.md). It also contains some layers of annotation:
 
 - Every pun is classified as homophonic, homographic, both, or none according to their specific punning signs;
 - The punning and alternative signs were made explicit for every joke;
