@@ -626,7 +626,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.563,O que come um drogado ao pequeno-almoço? Papas da veia.,0,False,True,papas da veia,['papas de aveia']
 4.564,"Como é que se diz ""peido"" em árabe? Al-bufeira.",0,False,False,Al-bufeira,['bufa']
 4.565,Qual é o chocolate que só tem duas semanas de validade? O Twix.,0,False,False,Twix,['two weeks']
-4.566,Porque é que os ladões praticam boxe? Porque há um assalto a cada 3 minutos.,0,True,True,assalto,['assalto']
+4.566,Porque é que os ladrões praticam boxe? Porque há um assalto a cada 3 minutos.,0,True,True,assalto,['assalto']
 4.567,"O que é que a mulher do comunista diz quando o viagra perde o efeito? Foice o martelo, camarada.",0,False,True,foice,['foi-se']
 4.568,"Porque é que a seleção chinesa não tem muito sucesso no futebol? Porque de cada vez que lhes dão um canto, eles montam uma loja.",0,True,True,canto,['canto']
 4.569,Porque é que o Artur aceitou o trabalho de limpar espelhos? Porque era algo que se via a fazer.,0,True,True,se via a fazer,['se via a fazer']
