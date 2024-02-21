@@ -47,7 +47,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.1,Por que é que o Capitão América ficou sem abrigo? Porque ainda usa o escudo.,0,True,True,escudo,['escudo']
 4.2,Por que é que os matemáticos bebem pouca água? Para fazerem cálculo renal,0,True,True,cálculo,['cálculo']
 4.3,Quem é aquela velhinha ali a ouvir música no telemóvel? É a avó da fone.,0,False,True,avó da fone,['a vodafone']
-4.4,O que é melhor que o Start Wars? Star de férias.,0,False,True,star,['estar']
+4.4,O que é melhor que o Star Wars? Star de férias.,0,False,True,star,['estar']
 4.5,Hoje caí e entornei meu leite com chocolate. Molhei-me Toddynho.,0,False,False,toddynho,['todinho']
 4.6,Decidi começar a usar flores nos pés. São dálias.,0,False,False,são dálias,['sandálias']
 4.7,Um casal pinou no meio do mato e teve dois filhos. São frutos do bosque.,0,True,True,frutos,['frutos']
