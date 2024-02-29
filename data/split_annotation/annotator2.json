@@ -2237,7 +2237,7 @@
     },
     {
         "id": "4.189",
-        "text": "Porque é que o peixe congelado é mais caro que o peixe fresto? Porque o congelado já inclui a sobremesa.",
+        "text": "Porque é que o peixe congelado é mais caro que o peixe fresco? Porque o congelado já inclui a sobremesa.",
         "tokens": [
             "Porque",
             "é",
@@ -2251,7 +2251,7 @@
             "que",
             "o",
             "peixe",
-            "fresto",
+            "fresco",
             "?",
             "Porque",
             "o",
@@ -2282,7 +2282,7 @@
             "congelado",
             "já",
             "inclui",
-            "a",
+            "o",
             "gelo",
             "."
         ]
@@ -4060,3 +4060,4 @@
         ]
     }
 ]
+

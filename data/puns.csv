@@ -240,7 +240,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.186,Qual é a série preferida dos cagalhões? Prison Break.,0,False,False,prison break,['prisão de ventre']
 4.187,Que nome se dá a um turista egípcio no Algarve? Tutancamone?,0,False,False,Tutancamone,"['Tutancâmon', 'camone']"
 4.188,Porque é que o poste caiu? Tinha alta tensão.,0,True,True,alta tensão,['alta tensão']
-4.189,Porque é que o peixe congelado é mais caro que o peixe fresto? Porque o congelado já inclui a sobremesa.,0,False,True,congelado,['com gelado']
+4.189,Porque é que o peixe congelado é mais caro que o peixe fresco? Porque o congelado já inclui a sobremesa.,0,False,True,congelado,['com gelado']
 4.19,Quando é que os americanos comeram carne pela primeira vez? Quando chegou lá o Cristóvão Co-lombo.,0,False,False,Co-lombo,"['com o lombo', 'Colombo']"
 4.191,Qual era o atum mais vendido na Jugoslávia? Era a consérvia.,0,False,False,consérvia,"['conserva', 'Sérvia']"
 4.192,Porque é que o exame de Neurologia é o mais fácil? Porque a matéria está toda na cabeça.,0,True,True,cabeça,['cabeça']
