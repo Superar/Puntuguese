@@ -8,6 +8,10 @@ Puntuguese is a corpus of punning texts in Portuguese, including jokes in Brazil
 
 Additionally, every joke in the corpus has a non-humorous counterpart, obtained via micro-editing, to enable Machine Learning systems to be trained.
 
+## 🤗 Hugging Face Hub
+
+The dataset is also available in the [Hugging Face Hub](https://huggingface.co/datasets/Superar/Puntuguese).
+
 ## General statistics
 
 The general statistics of the corpus are:
