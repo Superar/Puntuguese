@@ -10,6 +10,9 @@ parser = ArgumentParser()
 parser.add_argument('--corpus', '-c',
                     help='Pun corpus JSON file.',
                     required=True, type=Path)
+parser.add_argument('--edits', '-e',
+                    help='Editted puns data folder.',
+                    required=True, type=Path)
 parser.add_argument('--output', '-o',
                     help='Output JSON file to save.',
                     required=True, type=Path)
@@ -42,8 +45,20 @@ for pun in corpus:
                           if token.idx < sign_end and
                           (token.idx + len(token)) > sign_start]
             labels[tokens_idx] = 1
-    anchoring_data.append({'id': pun['id'],
+    anchoring_data.append({'id': pun['id'] + '.H',
                            'text': [token.text for token in doc],
+                           'labels': labels.tolist()})
+
+# Create humor anchoring data for negative examples
+corpus = list()
+for edits_path in args.edits.iterdir():
+    with edits_path.open('r', encoding='utf-8') as file_:
+        corpus.extend(json.load(file_))
+
+for pun in corpus:
+    labels = np.zeros((len(pun['edited tokens']),), dtype=np.int32)
+    anchoring_data.append({'id': pun['id'] + '.N',
+                           'text': pun['edited tokens'],
                            'labels': labels.tolist()})
 
 with args.output.open('w', encoding='utf-8') as file_:
