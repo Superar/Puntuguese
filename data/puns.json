@@ -6968,6 +6968,12 @@
                 "homophone": true,
                 "pun sign": "hobbits",
                 "alternative sign": ["hobbits"]
+            },
+            {
+                "homograph": false,
+                "homophone": false,
+                "pun sign": "hobbyte",
+                "alternative sign": ["hobbit", "byte"]
             }
         ]
     },
@@ -30300,8 +30306,8 @@
             {
                 "homograph": false,
                 "homophone": true,
-                "pun sign": "os zíper ativos",
-                "alternative sign": ["os hiperativos"]
+                "pun sign": "zíper ativos",
+                "alternative sign": ["hiperativos"]
             }
         ]
     },

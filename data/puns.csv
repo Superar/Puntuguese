@@ -588,6 +588,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.527,O que é que tem dois cus e mata? Um ass ass ino.,0,False,False,ass ass ino,['assassino']
 4.528,Como é que os professores de matemática se mantêm em forma? Com Geometria.,0,True,True,em forma,['em forma']
 4.529,O que são oito Hobbits? Um Hobbyte.,0,True,True,hobbits,['hobbits']
+4.529,O que são oito Hobbits? Um Hobbyte.,1,False,False,hobbyte,"['hobbit', 'byte']"
 4.53,Adoro pessoas com sardas. Têm centenas de pontos a seu favor.,0,True,True,pontos,['pontos']
 4.531,Porque é que a Lassie ganiu? Porque estava cheia de collie-cas.,0,False,True,collie-cas,['cólicas']
 4.532,Dizem que não percebo nada de comida mexicana... Nacho que seja assim tão burrito.,0,False,False,nacho,['não acho']
@@ -2550,7 +2551,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.3666,Qual dublador que não toma banho? Fede Mascarenhas.,0,False,False,fede,['fred']
 5.264,Qual cantor era um extraterrestre? O Vinny.,0,False,False,o vinny,['ovni']
 5.3676,"Por que o marido prometeu levar a eposa pra Foz do Iguaçu, mas não levou? Porque era cascata.",0,True,True,cascata,['cascata']
-5.2751,Qual aviamento não para quieto? Os Zíper Ativos,0,False,True,os zíper ativos,['os hiperativos']
+5.2751,Qual aviamento não para quieto? Os Zíper Ativos,0,False,True,zíper ativos,['hiperativos']
 5.2404,Qual é o estado que queria ser um carro? Ser Jipe.,0,False,True,ser jipe,['sergipe']
 5.481,Por que a jogadora de baseball foi internada no hospício?  Porque ela não estava batendo bem.,0,True,True,não estava batendo bem,['não estava batendo bem']
 5.3665,"O cara reclamou do vaso trincado e a namorada ficou com a boca cheia d'água. Por que? Porque o cara exclamou: Pô, rachou!",0,False,False,"pô, rachou",['porra']
