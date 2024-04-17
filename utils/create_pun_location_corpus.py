@@ -56,9 +56,12 @@ for edits_path in args.edits.iterdir():
         corpus.extend(json.load(file_))
 
 for pun in corpus:
-    labels = np.zeros((len(pun['edited tokens']),), dtype=np.int32)
+    edited_tokens = [token for token in pun['edited tokens'] if token.strip()]
+    doc = nlp(' '.join(edited_tokens))
+    tokens = [token.text for token in doc]
+    labels = np.zeros_like(tokens, dtype=np.int32)
     anchoring_data.append({'id': pun['id'] + '.N',
-                           'text': pun['edited tokens'],
+                           'text': tokens,
                            'labels': labels.tolist()})
 
 with args.output.open('w', encoding='utf-8') as file_:

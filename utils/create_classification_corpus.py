@@ -43,7 +43,9 @@ for k in corpus_dict:
                                        'label': 1}
     # Detokenize
     twd = TreebankWordDetokenizer()
-    detokenized_text = twd.detokenize(editions_dict[k]['edited tokens'])
+    edited_tokens = [tok for tok in editions_dict[k]['edited tokens']
+                     if tok.strip()]
+    detokenized_text = twd.detokenize(edited_tokens)
     classification_corpus[k + '.N'] = {'text': detokenized_text,
                                        'label': 0}
 classification_corpus_path = args.corpus.parent / 'classification_corpus.json'
