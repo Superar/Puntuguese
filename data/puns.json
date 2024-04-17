@@ -1500,8 +1500,8 @@
             {
                 "homograph": true,
                 "homophone": true,
-                "pun sign": "queimar",
-                "alternative sign": ["queimar"]
+                "pun sign": "queimei",
+                "alternative sign": ["queimei"]
             }
         ]
     },
@@ -1831,7 +1831,7 @@
     },
     {
         "id": "4.108",
-        "text": "Uma feminista perguntou-me de que foma eu via as relações lésbicas. Parece que \"em HD\" não era a resposta correta...",
+        "text": "Uma feminista perguntou-me de que forma eu via as relações lésbicas. Parece que \"em HD\" não era a resposta correta...",
         "signs": [
             {
                 "homograph": true,
@@ -2941,7 +2941,7 @@
     },
     {
         "id": "4.197",
-        "text": "Qual é o peixe mais prestigiado do Reino Unido?",
+        "text": "Qual é o peixe mais prestigiado do Reino Unido? Sir Dinha.",
         "signs": [
             {
                 "homograph": false,
@@ -4578,8 +4578,8 @@
             {
                 "homograph": true,
                 "homophone": true,
-                "pun sign": "dividir",
-                "alternative sign": ["dividir"]
+                "pun sign": "divide",
+                "alternative sign": ["divide"]
             }
         ]
     },
@@ -7560,8 +7560,8 @@
             {
                 "homograph": true,
                 "homophone": true,
-                "pun sign": "consigo fazê-los de olhos fechados",
-                "alternative sign": ["consigo fazê-los de olhos fechados"]
+                "pun sign": "consigo fazê-lo de olhos fechados",
+                "alternative sign": ["consigo fazê-lo de olhos fechados"]
             }
         ]
     },
@@ -8694,7 +8694,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "vídeossintese",
+                "pun sign": "videossíntese",
                 "alternative sign": ["fotossíntese", "foto"]
             }
         ]
@@ -9258,8 +9258,8 @@
             {
                 "homograph": true,
                 "homophone": true,
-                "pun sign": "tampa",
-                "alternative sign": ["tampa"]
+                "pun sign": "tampas",
+                "alternative sign": ["tampas"]
             }
         ]
     },
@@ -10104,7 +10104,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "retardata",
+                "pun sign": "retardada",
                 "alternative sign": ["reta"]
             }
         ]
@@ -11388,7 +11388,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "pialtes",
+                "pun sign": "pilates",
                 "alternative sign": ["pilatos"]
             }
         ]
@@ -13872,7 +13872,7 @@
             {
                 "homograph": false,
                 "homophone": true,
-                "pun sign": "tea na turner",
+                "pun sign": "tea na tuner",
                 "alternative sign": ["tina turner"]
             }
         ]
@@ -14712,7 +14712,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "ana caralhinha",
+                "pun sign": "ana caralinha",
                 "alternative sign": ["ana carolina"]
             }
         ]
@@ -17940,7 +17940,7 @@
             {
                 "homograph": false,
                 "homophone": true,
-                "pun sign": "chacrinha",
+                "pun sign": "chacarinha",
                 "alternative sign": ["chacrinha"]
             }
         ]
@@ -18367,7 +18367,7 @@
     },
     {
         "id": "5.3970",
-        "text": "Por que na crise, as aves não voavam sobre o Japão ? Porque estavam com a c.",
+        "text": "Por que na crise, as aves não voavam sobre o Japão ? Porque estavam com a Ásia Quebrada.",
         "signs": [
             {
                 "homograph": false,
@@ -20772,7 +20772,7 @@
             {
                 "homograph": false,
                 "homophone": true,
-                "pun sign": "caque",
+                "pun sign": "craque",
                 "alternative sign": ["crack"]
             }
         ]
@@ -24684,7 +24684,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "é bom boar",
+                "pun sign": "é bom voar",
                 "alternative sign": ["beauvoir"]
             }
         ]
@@ -24888,7 +24888,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "xo, fé",
+                "pun sign": "xô, fé",
                 "alternative sign": ["chofer"]
             }
         ]
@@ -25098,7 +25098,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "ser dentátio",
+                "pun sign": "ser dentário",
                 "alternative sign": ["sedentário"]
             }
         ]
@@ -25986,7 +25986,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "austista plástico",
+                "pun sign": "autista plástico",
                 "alternative sign": ["artista plástico"]
             }
         ]
@@ -28170,7 +28170,7 @@
             {
                 "homograph": false,
                 "homophone": true,
-                "pun sign": "da ao ney jr.",
+                "pun sign": "dá ao ney jr.",
                 "alternative sign": ["downey jr."]
             }
         ]
@@ -29562,7 +29562,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "há malhas que vêm para ben",
+                "pun sign": "há malhas que vêm pra ben",
                 "alternative sign": ["há males que vêm para o bem"]
             }
         ]
@@ -30210,7 +30210,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "tá lá rica",
+                "pun sign": "ta lá rica",
                 "alternative sign": ["talarica"]
             }
         ]
@@ -30534,7 +30534,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "lsoer manos",
+                "pun sign": "loser manos",
                 "alternative sign": ["los hermanos"]
             }
         ]
@@ -33198,7 +33198,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "athimna",
+                "pun sign": "atchimna",
                 "alternative sign": ["a tina"]
             }
         ]
@@ -33846,8 +33846,8 @@
             {
                 "homograph": true,
                 "homophone": true,
-                "pun sign": "reclames to plinplin",
-                "alternative sign": ["reclames to plinplin"]
+                "pun sign": "reclames do plinplin",
+                "alternative sign": ["reclames do plinplin"]
             }
         ]
     },
@@ -33858,7 +33858,7 @@
             {
                 "homograph": false,
                 "homophone": false,
-                "pun sign": "havydências",
+                "pun sign": "heavydências",
                 "alternative sign": ["evidências"]
             }
         ]

@@ -124,7 +124,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.77,"Se o futuro depende dos teus sonhos, não percas tempo. Vai dormir.",0,True,True,sonhos,['sonhos']
 4.78,Como se chama um homem sem mão? Simão.,0,False,False,Simão,['sem mão']
 4.79,O que é uma búzia? São doze búzios.,0,False,False,búzia,['dúzia']
-4.8,Hoje fui ao ginásio e queimei 1.200 calorias. Para a próxima não deixo a pizza no forno.,0,True,True,queimar,['queimar']
+4.8,Hoje fui ao ginásio e queimei 1.200 calorias. Para a próxima não deixo a pizza no forno.,0,True,True,queimei,['queimei']
 4.81,"Quando soube que os Nirvana alcançaram a fama, o Kurt não Cobain si de contente.",0,False,False,Cobain si,['coube-se']
 4.82,O que é um ponto rosa no chão? Uma gaynha.,0,False,False,gaynha,"['galinha', 'gay']"
 4.83,O que é uma roubalheira? É o ato de roubar uma alheira.,0,False,True,roubalheira,['rouba alheira']
@@ -152,7 +152,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.105,Recementecemente foi descoberta uma nova doença na manteiga. Parece que se espalha com muita facilidade.,0,True,True,espalha,['espalha']
 4.106,Qual é a flor que os homens mais gostam de oferecer às mulheres? Tulimpas.,0,False,True,tulimpas,"['tu limpas', 'tulipas']"
 4.107,O que é que o Harry Potter lê quando está doente? Saramago.,0,False,True,Saramago,['sara mago']
-4.108,"Uma feminista perguntou-me de que foma eu via as relações lésbicas. Parece que ""em HD"" não era a resposta correta...",0,True,True,de que forma eu via,['de que forma eu via']
+4.108,"Uma feminista perguntou-me de que forma eu via as relações lésbicas. Parece que ""em HD"" não era a resposta correta...",0,True,True,de que forma eu via,['de que forma eu via']
 4.109,Que nome se dá a um cão que vai à missa? Cachorro crente.,0,False,False,cachorro crente,['cachorro quente']
 4.11,Como se chama o homem que monta presépios? Armando Nascimento de Jesus.,0,True,True,Armando Nascimento de Jesus,['armando nascimento de jesus']
 4.111,O que é uma nabalha? É um instrumento para descascar nabos.,0,False,False,nabalha,"['navalha', 'nabo']"
@@ -248,7 +248,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.194,Como é que se faz uma ultrapassagem na Palestina? Pela Faixa de Gaza.,0,True,True,Faixa de Gaza,['faixa de Gaza']
 4.195,De onde vem a lã virgem? Das ovelhas feias.,0,True,True,virgem,['virgem']
 4.196,Onde é que os eletrões moram? Na eletri-cidade.,0,False,True,eletri-cidade,"['eletricidade', 'cidade']"
-4.197,Qual é o peixe mais prestigiado do Reino Unido?,0,False,False,Sir Dinha,['sardinha']
+4.197,Qual é o peixe mais prestigiado do Reino Unido? Sir Dinha.,0,False,False,Sir Dinha,['sardinha']
 4.198,"Porque é que a febre tifóide é tão perigosa? Porque ou tu a curas, ou ela tifóide mesmo.",0,False,False,tifóide,['te fode']
 4.199,O que é um rodapé? É um homem que costumava ter carro mas que agora roda a pé.,0,False,True,rodapé,['roda a pé']
 4.2,Qual é a marca de computadores que canta melhor? A Dell.,0,False,True,a Dell,['Adele']
@@ -385,7 +385,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.33,Porque é que os bêbados gostam de passar a Ponte 25 de Abril? Porque lá há muito engarrafamento.,0,True,True,engarrafamento,['engarrafamento']
 4.331,Nunca mais levo a minha serpente à veterinária. Ela cobra muito.,0,True,True,cobra,['cobra']
 4.332,"Uma ovelha, um tambor e uma serpente caíram num precipício. Baaa Dum Tsss!",0,True,True,Baaa Dum Tsss,['Baaa Dum Tsss']
-4.333,Em quantas partes se divide o cérebro do homem? Depende da força da pancada.,0,True,True,dividir,['dividir']
+4.333,Em quantas partes se divide o cérebro do homem? Depende da força da pancada.,0,True,True,divide,['divide']
 4.334,Porque é que na torradeira só cabem duas fatias de pão? Porque são tworradas.,0,False,False,tworradas,"['torradas', 'two']"
 4.335,O que fazem os triângulos quando estão cansados? Eles sin-cos-tan.,0,False,False,sin-cos-tan,['se encostam']
 4.336,"Hoje davam chuva só para o continente, mas há bocado passei pelo Lidl e também estava a chover.",0,True,True,continente,['continente']
@@ -638,7 +638,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.574,Porque é que a cigarra morreu? Porque tentou pinar um cigarro.,0,True,True,cigarro,['cigarro']
 4.575,Vira-se a mãe pata para o patinho: Anda quá!,0,False,False,anda quá,['anda cá']
 4.576,Quanto tempo demoras a escorregar numa banana? Um banano-segundo.,0,False,False,banano-segundo,['nanosegundo']
-4.577,Algumas pessoas têm dificuldade em dormir. Eu cá consigo fazê-lo de olhos fechados.,0,True,True,consigo fazê-los de olhos fechados,['consigo fazê-los de olhos fechados']
+4.577,Algumas pessoas têm dificuldade em dormir. Eu cá consigo fazê-lo de olhos fechados.,0,True,True,consigo fazê-lo de olhos fechados,['consigo fazê-lo de olhos fechados']
 4.578,"Como é que o pintor faz a namorada vir duas vezes? Primeiro de pincel, depois a segunda demão.",0,False,True,demão,['de mão']
 4.579,Hoje na escola levei com um pino na cabeça. Fui vítima de bowling.,0,False,False,bowling,['bullying']
 4.58,Que nome se dá ao karaté para amputados? Artes parciais.,0,False,False,parciais,['marciais']
@@ -734,7 +734,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.667,Que tipo de música ouvem os mortos-vivos? Kizombie.,0,False,False,kizombie,"['kizomba', 'zombie']"
 4.668,Qual é o automóvel que leva mais porcas? É o Nissan Na vara.,0,False,True,na vara,['Navara']
 4.669,Qual é o dente que se arranca melhor sem anestesia? O dente de alho.,0,True,True,dente,['dente']
-4.67,O que faz um grupo de plantas ao sol? Videossíntese.,0,False,False,vídeossintese,"['fotossíntese', 'foto']"
+4.67,O que faz um grupo de plantas ao sol? Videossíntese.,0,False,False,videossíntese,"['fotossíntese', 'foto']"
 4.671,O jacaré nunca diz o que pensa. Mas o croco di-lo.,0,False,True,croco di-lo,['crocodilo']
 4.672,Qual é o melhor óleo para lubrificar o sexo? Óleo Need Is Love.,0,False,False,óleo,['all you']
 4.673,O que bebem os fantasmas? Bebidas espirituosas.,0,True,True,espirituosas,['espirituosas']
@@ -782,7 +782,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 4.713,O que é um anão? É um ano bissexto.,0,True,True,anão,['anão']
 4.714,Porque é que Jesus nunca ganhou a Euromilhões? Porque só teve direito a uma cruz.,0,True,True,cruz,['cruz']
 4.715,Vira-se uma poia para outra: Então o que fezes por aqui?,0,False,False,fezes,['fazes']
-4.716,"Era uma vez um homem que levava tantas tampas das mulheres, mas tantas, tantas... que um dia comprou uma cadeira de rodas.",0,True,True,tampa,['tampa']
+4.716,"Era uma vez um homem que levava tantas tampas das mulheres, mas tantas, tantas... que um dia comprou uma cadeira de rodas.",0,True,True,tampas,['tampas']
 4.717,Qual é a profissão do Nélson Évora? Tripulante.,0,True,True,tripulante,['tripulante']
 4.718,"Vai ser lançada uma biografia sobre o Carlos Castro. Vai chamar-se ""A Minha Vida Tim Tim por Tim Tim"".",0,True,True,tim tim por tim tim,['tim tim por tim tim']
 4.719,"""Catetos que tu tens!"" - Pitágoras",0,False,False,catetos,['que tetos']
@@ -855,7 +855,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.888,O que é bom para miopia? Miotorneira.,0,False,False,miopia,['pia']
 5.888,O que é bom para miopia? Miotorneira.,1,False,False,miotorneira,['torneira']
 5.3284,Qual banda dá um toque dizendo que não tá bem? Opa tô fú!,0,False,False,opa tô fú,['o pato fu']
-5.62,Como chama uma reta que faz várias curvas? RETArdada…,0,False,False,retardata,['reta']
+5.62,Como chama uma reta que faz várias curvas? RETArdada…,0,False,False,retardada,['reta']
 5.3586,Por que quando chove pedra elas caem todas certinhas? Porque eu organizo.,0,False,False,organizo,['granizo']
 5.3639,"Qual poção você toma e desapega, desapega? O elixir.",0,False,False,elixir,['ir']
 5.1996,Qual o filme preferido do Kiko? É o Harry Potter e o Cálice Cálice Cálice se não você me deixa louco! ,0,False,True,cálice,['cale-se']
@@ -964,7 +964,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.1601,Qual filme conta a história do filho do Shrek? Ogrito.,0,False,True,ogrito,['o grito']
 5.561,Qual personagem do Star Wars de Umbanda? Exubacca.,0,False,False,exubacca,"['chewbacca', 'exu']"
 5.1647,"Por que o James Bond não conseguiu entrar no restaurante? Porque tinha uma placa escrito ""No Smoking"".",0,True,True,smoking,['smoking']
-5.2671,Qual o romano mais malhado que existe? Pôncio Pilates.,0,False,False,pialtes,['pilatos']
+5.2671,Qual o romano mais malhado que existe? Pôncio Pilates.,0,False,False,pilates,['pilatos']
 5.2434,Qual o contrário de salmão? Açucar Pé.,0,False,True,salmão,['sal mão']
 5.1667,Qual o penteado que te faz triturar encanamentos? Moicano,0,False,False,moicano,['mói cano']
 5.2954,Qual é o nome do programa em que Silvana fala sobre as visões divinas que ela já teve? Programa Sil Viu Santos.,0,False,True,sil viu santos,['sílvio santos']
@@ -1171,7 +1171,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.1217,Que filme o cara constrói uma ponte para conquistar um homossexual? Ponte para Terabicha.,0,False,False,terabicha,"['terabítia', 'bicha']"
 5.2324,Por que os países da Europa vivem bagunçados? Por causa da Zona do Euro.,0,True,True,zona,['zona']
 5.138,O que o bêbado falou no bar? Chama os desempregados que hoje eu vou dar trabalho.,0,True,True,dar trabalho,['dar trabalho']
-5.1194,Qual a cantora que indica onde gosta de tomar chá? Tea na Tuner.,0,False,True,tea na turner,['tina turner']
+5.1194,Qual a cantora que indica onde gosta de tomar chá? Tea na Tuner.,0,False,True,tea na tuner,['tina turner']
 5.188,Qual é o Anime que faz mal para os pulmões? Charuto ,0,False,False,charuto,['naruto']
 5.1967,Onde as bundas são conservadas? Na adega ,0,False,False,na adega,['nádega']
 5.3678,Qual rodovia não é mais criança? A Via Adulta,0,False,False,adulta,['dutra']
@@ -1242,7 +1242,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.905,Qual é o mar preferido dos super-heróis? O Marvel.,0,False,False,marvel,['mar']
 5.3438,O que significa muita lingerie junta? Concentração de renda.,0,True,True,concentração de renda,['concentração de renda']
 5.3304,Qual o prato que pune quem tenta ser malandro? Espertinho na brasa.,0,False,False,espertinho,['espetinho']
-5.941,Qual é a cantora que tem pau pequeno? Ana Caralinha.,0,False,False,ana caralhinha,['ana carolina']
+5.941,Qual é a cantora que tem pau pequeno? Ana Caralinha.,0,False,False,ana caralinha,['ana carolina']
 5.621,O que é uma fofoca? A amimiga da babaleia.,0,False,False,fofoca,['foca']
 5.621,O que é uma fofoca? A amimiga da babaleia.,1,False,False,amimiga,['amiga']
 5.621,O que é uma fofoca? A amimiga da babaleia.,2,False,False,babaleia,['baleia']
@@ -1515,7 +1515,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.535,Por que a piscina estava sem água? Porque Ofurô.,0,False,False,ofurô,['furou']
 5.2099,Qual é o local religioso preferido dos jogadores de basquete? O Vaquicano ,0,False,False,vaquicano,['vaticano']
 5.1,Qual é o nome do político que tem mal de Parkinson? Michel Tremer.,0,False,False,tremer,['temer']
-5.393,Qual apresentador tinha um pequeno sítio? Chacarinha,0,False,True,chacrinha,['chacrinha']
+5.393,Qual apresentador tinha um pequeno sítio? Chacarinha,0,False,True,chacarinha,['chacrinha']
 5.3367,Como se chamam quatro pessoas azaradas? In four túnio.,0,False,False,in four túnio,['infortúnio']
 5.866,Qual a bebida favorita das ninfomaníacas? Caipirokas.,0,False,False,caipirokas,"['caipiroska', 'pirocas']"
 5.36,Qual o tom que a Cinderela canta suas músicas? Fá da Madrinha.,0,False,True,fá da,['fada']
@@ -1551,7 +1551,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.1053,Qual filósofo conseguiu virar todas as quatro cadeiras do The Voice? Kant.,0,False,True,kant,['cante']
 5.3078,"Qual a dupla sertaneja que um ficou puto e mandou o outro quebrar o computador dele? Quebra meu note, Fabiano.",0,False,False,"quebra meu note, fabiano",['césar menotti e fabiano']
 5.3136,"O que Beth Carvalho disse quando fez show nos Emirados Árabes? Ô coisinha tão bonitinha, Dubai.",0,False,False,dubai,['do pai']
-5.397,"Por que na crise, as aves não voavam sobre o Japão ? Porque estavam com a c.",0,False,False,Ásia Quebrada,['asa quebrada']
+5.397,"Por que na crise, as aves não voavam sobre o Japão ? Porque estavam com a Ásia Quebrada.",0,False,False,Ásia Quebrada,['asa quebrada']
 5.1772,O que um diretor da Ubisoft foi fazer na África? Um SaFari Cry.,0,False,False,safari,['far']
 5.3866,Qual religioso quer matar todo mundo? Psicopapa.,0,False,False,Psicopapa,"['psicopata', 'papa']"
 5.387,Qual o nome do dono do cemitério? Seu Pultura.,0,False,False,Seu Pultura,['sepultura']
@@ -1752,7 +1752,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.2603,Qual cantor enxergava tudo o que o professor escreve em sala de aula? Caetano Vê Lousa.,0,False,False,vê lousa,['veloso']
 5.3991,Por que levaram a cadeira pra Igreja Universal? Porque ela tem encosto.,0,True,True,encosto,['encosto']
 5.659,Qual planta trabalha muito? Workídea.,0,False,False,workídea,"['orquídea', 'work']"
-5.25,"Se a Bruna Marquezine der um fora no Neymar, o que ela é?  Ex-usuária de craque.",0,False,True,caque,['crack']
+5.25,"Se a Bruna Marquezine der um fora no Neymar, o que ela é?  Ex-usuária de craque.",0,False,True,craque,['crack']
 5.3935,Qual a bebida que te viu ontem? Lhe Countreau.,0,False,False,Lhe Countreau,['lhe encontrou']
 5.3521,"O que o cara gritava quando foi preso por 171? ""Mentira daqui!""",0,False,False,mentira,['me tira']
 5.1158,Qual o presidente que foi beber água e não achou nada? Marechal Deodoro da Fonte Seca.,0,False,False,fonte seca,['fonseca']
@@ -2080,7 +2080,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.2843,Qual padre falava tudo que pensava? Padre Síncero ,0,False,False,síncero,"['cícero', 'sincero']"
 5.3051,Como o veado reage a uma boa piada? Gar galhando.,0,False,True,gar galhando,"['gargalhando', 'galha']"
 5.2875,Qual é a apresentadora mais cruel do Brasil? é a Má isa ,0,False,True,má isa,['maísa']
-5.78,Qual a mulher que mais gostava de andar de avião? Simone de É Bom Voar.,0,False,False,é bom boar,['beauvoir']
+5.78,Qual a mulher que mais gostava de andar de avião? Simone de É Bom Voar.,0,False,False,é bom voar,['beauvoir']
 5.349,Qual hotel se hospedavam os Beatles? Let Ibis.,0,False,False,ibis,['it be']
 5.3997,Qual a primeira menstruação bíblica? A Menarca de Noé.,0,False,False,Menarca,['arca']
 5.1184,Qual ex-presidente dos Estados Unidos ama fazer obras? Barack Obra Ama.,0,False,False,obra ama,['obama']
@@ -2097,7 +2097,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.828,Qual o nome e sobrenome da mulher que apareceu sem roupa e surpreendeu o japonês? A Inês Perada.,0,False,False,inês perada,"['inesperada', 'inês pelada']"
 5.614,Qual é o carro preferido do Wolverine? Logan.,0,True,True,logan,['logan']
 5.24,O Continente nao estava se sentindo bem. O que ele tinha? Ásia.,0,False,False,ásia,['azia']
-5.3083,"Como se chama o motorista que não acredita em nada? Xô, fé.",0,False,False,"xo, fé",['chofer']
+5.3083,"Como se chama o motorista que não acredita em nada? Xô, fé.",0,False,False,"xô, fé",['chofer']
 5.7,Por que a feijoada estava triste? Porque colocaram ela na panela depressão.,0,False,True,depressão,['de pressão']
 5.2294,Qual o astrônomo que tinha muita espinha? IsaAC NEwton,0,False,False,isaac newton,['acne']
 5.2836,"Qual é a máquina agrícola que levou o irmão pro hospital psiquiátrico? O Tra-Thor, porque o irmão tava Lokit",0,False,False,tra-thor,"['trator', 'thor']"
@@ -2115,7 +2115,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.1746,Por que o ciclista ficou com medo de entrar na mata? Porque ele viu umacobra radical,0,False,False,umacobra,['manobra']
 5.479,Por que os mamíferos são os únicos animais que conseguem tossir?  Porque só o leite que tem lacTOSSE.,0,False,False,lactosse,"['lactose', 'tosse']"
 5.321,Como chama o caminho que só a mulher do filho (ou da filha) pode seguir?  Trilha só nora.,0,False,False,só nora,['sonora']
-5.778,Por que o cara que não fazia exercícios prestou odonto?  Pra ser dentário.,0,False,False,ser dentátio,['sedentário']
+5.778,Por que o cara que não fazia exercícios prestou odonto?  Pra ser dentário.,0,False,False,ser dentário,['sedentário']
 5.593,Qual filme revela que nem todas as letras são pesadas?  A insustentável leveza do C.,0,False,False,c,['ser']
 5.1532,Por que não vende sal de fruta ENO na China? Porque lá eles não tem Ásia e má digestão.,0,False,False,ásia,['azia']
 5.3097,Qual comida favorita dos cães de rua? Ervilha Lata.e,0,False,False,ervilha lata,['vira-lata']
@@ -2189,7 +2189,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.27,"""O que as organelas responderam quando perguntaram se elas eram argentinas? """"Pero que sí, somos"""".""",0,False,True,"pero que sí, somos",['peroxissomos']
 5.2998,Qual é o cosmético que nunca consegue terminar de explicar uma localização? É lá que...,0,False,True,lá que,['laquê']
 5.389,Qual cantora pop sempre te convida pra tomar uma xícara de café? Madonna Florinda.,0,False,False,Madonna Florinda,"['madonna', 'dona florinda']"
-5.692,Como se chama o profissional que trabalha com plástico e não interage com ninguém? Autista Plástico.,0,False,False,austista plástico,['artista plástico']
+5.692,Como se chama o profissional que trabalha com plástico e não interage com ninguém? Autista Plástico.,0,False,False,autista plástico,['artista plástico']
 5.134,Por que o Roberto Carlos é considerado Rei? Porque no show dele só vai coroa.,0,True,True,coroa,['coroa']
 5.3659,Qual integrante dos Castro Brothers gosta de te estudar na língua culta? Estudar-te,0,False,False,estudar-te,['studart']
 5.2226,Por que se ouvia uma nota quando neandertal batia em suas presas ? Porque usava uma Clava de Sol,0,False,False,clava,['clave']
@@ -2373,7 +2373,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.1285,Qual a cidade favorita do comediante Mussão? Dê troite.,0,False,False,dê troite,"['dê trote', 'detroit']"
 5.314,Qual humorista retém uma pequena quantidade de líquido? Garrafinha Bastos.,0,False,False,garrafinha,['rafinha']
 5.2963,"Ao perceber turbulência, a aeromoça havia perguntado se o piloto estava se sentindo bem. O que ele respondeu antes de caírem? Stall.",0,False,False,stall,['estou']
-5.1215,Qual ator transa com o Neymar? Robert dá ao Ney Jr.,0,False,True,da ao ney jr.,['downey jr.']
+5.1215,Qual ator transa com o Neymar? Robert dá ao Ney Jr.,0,False,True,dá ao ney jr.,['downey jr.']
 5.783,Qual a tartaruga ninja que é amiga das abelhas? O Raphamel,0,False,False,raphamel,"['raphael', 'mel']"
 5.2385,Por que o atrito e a resistência do ar foram ao psicólogo? Porque eles são muito desprezados,0,True,True,desprezados,['desprezados']
 5.854,Qual o nome do japonês que abriu uma madeireira? Yamamoto Serra.,0,False,False,yamamoto serra,['motosserra']
@@ -2489,7 +2489,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.386,Por que a cerveja ganhou Oscar? Pela brilhante forma de a Stella Atuar.,0,False,False,atuar,['artois']
 5.4073,Qual aeroporto foi feito para arrecadar dinheiro? Confins lucrativos.,0,False,True,Confins lucrativos,"['confins', 'com fins lucrativos']"
 5.1362,Uma moça usava um grampo que começou a enferrujar. Ela pediu pra uma costureira o forrar. Qual é o nome do filme? Forra este Grampo.,0,False,False,forra este grampo,['forrest gump']
-5.1131,Por que o Ben 10 de vez em quando ganha algumas roupas de presente? Porque há malhas que vêm pra Ben.,0,False,False,há malhas que vêm para ben,['há males que vêm para o bem']
+5.1131,Por que o Ben 10 de vez em quando ganha algumas roupas de presente? Porque há malhas que vêm pra Ben.,0,False,False,há malhas que vêm pra ben,['há males que vêm para o bem']
 5.384,Do que é feita a casa de Deus? De Alvemaria.,0,False,False,Alvemaria,"['ave maria', 'alvenaria']"
 5.1202,Porque os pãezinhos nos EUA são cor de abóbora?  Porque é um pumpkin nininho.,0,False,False,pumpkin nininho,['pão pequenininho']
 5.3169,Que rainha rosna como música? Queen Lati Fa.,0,False,True,lati fa,['latifah']
@@ -2543,7 +2543,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.2312,Qual é o nome da banda favorita das pessoas cansadas? Exausta samba,0,False,False,exausta samba,['exaltasamba']
 5.1083,Qual a dança de rua é a mais famosa?  Lombada.,0,False,False,lombada,['lambada']
 5.986,Qual é o jogo de tabuleiro favorito do Goku? Genki Damas.,0,False,False,genki damas,"['damas', 'genki dama']"
-5.1844,Qual é a pessoa que não tá rica aqui? Ta lá rica,0,False,False,tá lá rica,['talarica']
+5.1844,Qual é a pessoa que não tá rica aqui? Ta lá rica,0,False,False,ta lá rica,['talarica']
 5.1047,Qual ilha chove muito? Ilhaumbrella,0,False,False,ilhaumbrella,"['ilha bela', 'umbrella']"
 5.2105,Qual o jogo clássico do Nintendo que nao tinha versão dublada? Legenda of Zelda ,0,False,False,legenda,['legend']
 5.711,Porque o produtor arrumou duas ovelhas para divulgar seu show? Para fazer lamb lamb.,0,False,True,lamb lamb,['lambe-lambe']
@@ -2570,7 +2570,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.2403,Qual o torresmo que nunca está de bem com a vida? O Torresmungando,0,False,True,torresmungando,['tô resmungando']
 5.2156,Qual comida sobreviveu ao naufrágio do Titanic? Arroze ,0,False,False,arroze,"['arroz', 'a rose']"
 5.2815,Qual a comida recomendada pelo medico de joelho? Sarapatela ,0,False,False,sarapatela,"['sarapatéu', 'sara patela']"
-5.2524,Qual banda dos amigos perdedores? Loser Manos.,0,False,False,lsoer manos,['los hermanos']
+5.2524,Qual banda dos amigos perdedores? Loser Manos.,0,False,False,loser manos,['los hermanos']
 5.545,Qual o programa mais formal que existe? Altas Honras.,0,False,False,honras,['horas']
 5.3406,Qual YouTuber é traficante? Narcos Castro.,0,False,False,narcos,['marcos']
 5.1071,Qual refrigerante predileto dos juízes? Coca Toga.,0,False,False,coca toga,['coca-cola']
@@ -2794,7 +2794,7 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.4037,Por que o otimista não sorri mais? Porque ele cry na real.,0,False,False,cry na real,['cai na real']
 5.2893,Qual dupla canta a meia luz? Sandy & Abajunior ,0,False,False,abajunior,"['abajur', 'júnior']"
 5.159,O que disse o casal do Peru que teve um filho no Réveillon? Obrigado peruano maravilhoso que tivemos.,0,False,False,peruano,['pelo ano']
-5.694,Qual cantora espirra muito? Atchimna Turner.,0,False,False,athimna,['a tina']
+5.694,Qual cantora espirra muito? Atchimna Turner.,0,False,False,atchimna,['a tina']
 5.1934,Qual é o apresentador que vive no psiquiatra? Depresilvio Santos ,0,False,False,depresilvio,"['depressivo', 'sílvio']"
 5.2841,Qual o ator que produz vinho? Vinícolas Cage ,0,False,False,vinícolas,['nicolas']
 5.1524,Como se chamava o cara que roubava discos do Eric Clapton? Claptonmaníaco.,0,False,False,claptonmaníaco,['cleptomaníaco']
@@ -2848,8 +2848,8 @@ id,text,sign_id,homograph,homophone,pun sign,alternative sign
 5.4035,"Por que o nariz, às vezes, sente cheiro de arrogância? Por causa da humildade relativa do ar.",0,False,False,humildade,['umidade']
 5.1806,Qual é a música preferida do cabeleireiro? Mona alisa,0,False,False,mona alisa,['mona lisa']
 5.1839,Qual é o feriado que celebra o parceiro que não liga para a vida sexual pregressa do outro? Independe se dei,0,False,True,independe se dei,['independence day']
-5.3434,Por que o Faustão quer que você coloque o Plinio no seu devido lugar? Pra que tu reclames do Plinplin.,0,True,True,reclames to plinplin,['reclames to plinplin']
-5.1491,Sabe qual é a música heavy metal de Chitãozinho e Xororó? Heavydências.,0,False,False,havydências,['evidências']
+5.3434,Por que o Faustão quer que você coloque o Plinio no seu devido lugar? Pra que tu reclames do Plinplin.,0,True,True,reclames do plinplin,['reclames do plinplin']
+5.1491,Sabe qual é a música heavy metal de Chitãozinho e Xororó? Heavydências.,0,False,False,heavydências,['evidências']
 5.2269,Qual país em que todo mundo ta sempre na academia ? Só malia,0,False,False,só malia,"['somália', 'só malha']"
 5.3827,Qual o mês favorito do surfista? Outubo.,0,False,False,Outubo,['outubro']
 5.1189,Que elemento químico a gente avalia depois de usar? U berílio.,0,False,True,u berílio,"['o berílio', 'uber']"
