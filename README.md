@@ -50,6 +50,32 @@ Each subfolder contains its own README file with general instructions on how to 
 
 ## How to cite
 
-```
-to be determined
+```bibtex
+@inproceedings{InacioEtAl2024,
+    title = "Puntuguese: A Corpus of Puns in {P}ortuguese with Micro-edits",
+    author = "In{\'a}cio, Marcio Lima  and
+      Wick-Pedro, Gabriela  and
+      Ramisch, Renata  and
+      Esp{\'\i}rito Santo, Lu{\'\i}s  and
+      Chacon, Xiomara S. Q.  and
+      Santos, Roney  and
+      Sousa, Rog{\'e}rio  and
+      Anchi{\^e}ta, Rafael  and
+      Goncalo Oliveira, Hugo",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1167",
+    pages = "13332--13343",
+    abstract = "Humor is an intricate part of verbal communication and dealing with this kind of phenomenon is essential to building systems that can process language at large with all of its complexities. In this paper, we introduce Puntuguese, a new corpus of punning humor in Portuguese, motivated by previous works showing that currently available corpora for this language are still unfit for Machine Learning due to data leakage. Puntuguese comprises 4,903 manually-gathered punning one-liners in Brazilian and European Portuguese. To create negative examples that differ exclusively in terms of funniness, we carried out a micro-editing process, in which all jokes were edited by fluent Portuguese speakers to make the texts unfunny. Finally, we did some experiments on Humor Recognition, showing that Puntuguese is considerably more difficult than the previous corpus, achieving an F1-Score of 68.9{\%}. With this new dataset, we hope to enable research not only in NLP but also in other fields that are interested in studying humor; thus, the data is publicly available.",
+}
+
 ```
