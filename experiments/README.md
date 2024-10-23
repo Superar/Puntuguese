@@ -12,3 +12,4 @@ experiments
 
 Every script has, as its first line, the indication of the command line to run.
 
+IMPORTANT: To run the classification experiments, you must have the HumorRecognitionPT code from [this repository](https://github.com/Superar/HumorRecognitionPT).
