@@ -1,5 +1,13 @@
 # Puntuguese - A Corpus of Puns in Portuguese with Micro-editions
 
+> [!IMPORTANT]
+> **Recommended for new experiments: use the `pair_controlled` configuration on [Hugging Face Hub](https://huggingface.co/datasets/Superar/Puntuguese).**
+> In the original splits, many puns and their micro-edited counterparts are in different splits, and this affects model evaluation, as discovered by [Sousa et al. (2026)](https://github.com/avelando/pun-detection-split-analysis). The `pair_controlled` configuration solves this by keeping each pair in the same split.
+>
+> ```python
+> load_dataset("Superar/Puntuguese", "pair_controlled")
+> ```
+
 Puntuguese is a corpus of punning texts in Portuguese, including jokes in Brazilian and European Portuguese. The data has been manually gathered and curate according to our [guidelines](data/GUIDELINES.md). It also contains some layers of annotation:
 
 - Every pun is classified as homophonic, homographic, both, or none according to their specific punning signs;
@@ -11,6 +19,13 @@ Additionally, every joke in the corpus has a non-humorous counterpart, obtained 
 ## 🤗 Hugging Face Hub
 
 The dataset is also available in the [Hugging Face Hub](https://huggingface.co/datasets/Superar/Puntuguese).
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("Superar/Puntuguese") # Uses the original splits
+ds = load_dataset("Superar/Puntuguese", "pair_controlled") # Uses pair-preserving splits
+```
 
 ## General statistics
 
