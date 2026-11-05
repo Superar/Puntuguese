@@ -94,3 +94,30 @@ Each subfolder contains its own README file with general instructions on how to 
 }
 
 ```
+
+If you use the dataset's pair-preserving version, please also cite [Sousa et al. (2026)](https://github.com/avelando/pun-detection-split-analysis):
+
+**BibTeX:**
+
+```bibtex
+@inproceedings{SousaEtAl2026,
+  title         = {When the Split Matters: Reorganizing Micro-Edited Pairs for Portuguese Pun Detection},
+  author        = {Avelar Rodrigues de Sousa and Maykon Willyam de Sousa Ferreira and Victor Oliveira Lima Pontes and Rafael Torres Anchi\^{e}ta},
+  booktitle     = {Anais do XXIII Encontro Nacional de Intelig\^{e}ncia Artificial e Computacional},
+  location      = {Cuiab\'{a}/MT},
+  year          = 2026,
+  issn          = {2763-9061},
+  pages         = {1792--1803},
+  publisher     = {SBC},
+  address       = {Porto Alegre, RS, Brasil},
+  doi           = {10.5753/eniac.2026.31369},
+  url           = {https://sol.sbc.org.br/index.php/eniac/article/view/46925}
+}
+```
+
+**ACL:**
+
+```
+Avelar Rodrigues de Sousa, Maykon Willyam de Sousa Ferreira, Victor Oliveira Lima Pontes, and Rafael Torres Anchiêta. 2026. When the Split Matters: Reorganizing Micro-Edited Pairs for Portuguese Pun Detection. In Anais do XXIII Encontro Nacional de Inteligência Artificial e Computacional, pages 1792–1803, Porto Alegre, RS, Brasil. SBC.
+```
+
