@@ -1,0 +1,44 @@
+[project]
+name = "puntuguese"
+version = "1.0.0"
+requires-python = "==3.10.*"
+dependencies = [
+    "streamlit",
+    "setuptools",
+    "wheel",
+    "spacy",
+    "streamlit-authenticator",
+    "htbuilder",
+    "st-click-detector",
+    "nltk",
+    "scikit-learn",
+    "tables",
+    "openpyxl",
+    "odfpy",
+    "matplotlib",
+    "transformers",
+    "torch",
+    "torchvision",
+    "torchaudio",
+]
+
+[dependency-groups]
+dev = ["autopep8"]
+
+[tool.uv]
+package = false
+default-groups = "all"
+
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple"
+
+[[tool.uv.index]]
+name = "downloadpytorch"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "downloadpytorch" }
+torchvision = { index = "downloadpytorch" }
+torchaudio = { index = "downloadpytorch" }
